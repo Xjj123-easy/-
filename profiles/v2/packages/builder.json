@@ -1,0 +1,295 @@
+{
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "outputName": "web-mobile",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-mobile",
+    "mainBundleIsRemote": false,
+    "md5Cache": false,
+    "name": "地牢猎人",
+    "startScene": "50eef35f-44e2-4f80-99e2-5421d780cc46"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1688034082056": {
+        "id": "1688034082056",
+        "progress": 1,
+        "state": "success",
+        "message": "2023-6-29 18:21 Build success in 27961 ms!",
+        "options": {
+          "name": "地牢猎人",
+          "platform": "wechatgame",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "subpackage",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "50eef35f-44e2-4f80-99e2-5421d780cc46",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/loading.scene",
+              "uuid": "50eef35f-44e2-4f80-99e2-5421d780cc46",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "85ffdebb-36cc-42ae-ac43-c37eda52ad42",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/start.scene",
+              "uuid": "f487ee25-da22-4cd4-bb1d-3a3f1d1786a5",
+              "inBundle": false
+            }
+          ],
+          "outputName": "wechatgame",
+          "packages": {
+            "cocos-service": {
+              "configID": "ea7fed",
+              "services": []
+            },
+            "wechatgame": {
+              "startSceneAssetBundle": true,
+              "orientation": "portrait",
+              "appid": "wxc7f9b99abbe44744",
+              "separateEngine": false,
+              "wasm": "wasm",
+              "enabelWebGL2": "off"
+            }
+          }
+        },
+        "time": "2023-6-29 18:21",
+        "dirty": false
+      },
+      "1688034854574": {
+        "id": "1688034854574",
+        "progress": 1,
+        "state": "success",
+        "message": "2023-6-29 18:35 Build success in 91853 ms!",
+        "options": {
+          "name": "地牢猎人",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "50eef35f-44e2-4f80-99e2-5421d780cc46",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/loading.scene",
+              "uuid": "50eef35f-44e2-4f80-99e2-5421d780cc46",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "85ffdebb-36cc-42ae-ac43-c37eda52ad42",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/start.scene",
+              "uuid": "f487ee25-da22-4cd4-bb1d-3a3f1d1786a5",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 640,
+                "designHeight": 960
+              },
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "ea7fed",
+              "services": []
+            }
+          }
+        },
+        "time": "2023-6-29 18:34",
+        "dirty": false
+      },
+      "1688035104194": {
+        "id": "1688035104194",
+        "progress": 1,
+        "state": "success",
+        "message": "2023-6-29 18:39 Build success in 94253 ms!",
+        "options": {
+          "name": "地牢猎人",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "50eef35f-44e2-4f80-99e2-5421d780cc46",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/loading.scene",
+              "uuid": "50eef35f-44e2-4f80-99e2-5421d780cc46",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "85ffdebb-36cc-42ae-ac43-c37eda52ad42",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/start.scene",
+              "uuid": "f487ee25-da22-4cd4-bb1d-3a3f1d1786a5",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "ea7fed",
+              "services": []
+            }
+          }
+        },
+        "time": "2023-6-29 18:38",
+        "dirty": false
+      },
+      "1688039477467": {
+        "id": "1688039477467",
+        "progress": 1,
+        "state": "success",
+        "message": "2023-6-29 19:51 Build success in 21606 ms!",
+        "options": {
+          "name": "地牢猎人",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "50eef35f-44e2-4f80-99e2-5421d780cc46",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/loading.scene",
+              "uuid": "50eef35f-44e2-4f80-99e2-5421d780cc46",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "85ffdebb-36cc-42ae-ac43-c37eda52ad42",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/start.scene",
+              "uuid": "f487ee25-da22-4cd4-bb1d-3a3f1d1786a5",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile-001",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "embedWebDebugger": false
+            },
+            "cocos-service": {
+              "configID": "ea7fed",
+              "services": []
+            }
+          }
+        },
+        "time": "2023-6-29 19:51",
+        "dirty": false
+      },
+      "1688040055984": {
+        "id": "1688040055984",
+        "progress": 1,
+        "state": "success",
+        "message": "2023-6-29 20:01 Build success in 20773 ms!",
+        "options": {
+          "name": "地牢猎人",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "50eef35f-44e2-4f80-99e2-5421d780cc46",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/loading.scene",
+              "uuid": "50eef35f-44e2-4f80-99e2-5421d780cc46",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/scene.scene",
+              "uuid": "85ffdebb-36cc-42ae-ac43-c37eda52ad42",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scene/start.scene",
+              "uuid": "f487ee25-da22-4cd4-bb1d-3a3f1d1786a5",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-mobile-002",
+          "packages": {
+            "web-mobile": {
+              "orientation": "auto",
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "embedWebDebugger": false
+            },
+            "cocos-service": {
+              "configID": "ea7fed",
+              "services": []
+            }
+          }
+        },
+        "time": "2023-6-29 20:00",
+        "dirty": false
+      }
+    }
+  }
+}

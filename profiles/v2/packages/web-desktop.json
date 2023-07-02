@@ -1,0 +1,9 @@
+{
+  "options": {
+    "web-desktop": {
+      "resolution": {
+        "designWidth": 640
+      }
+    }
+  }
+}

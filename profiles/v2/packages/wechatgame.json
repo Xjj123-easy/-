@@ -1,0 +1,8 @@
+{
+  "options": {
+    "wechatgame": {
+      "startSceneAssetBundle": true,
+      "appid": "wxc7f9b99abbe44744"
+    }
+  }
+}

@@ -1,0 +1,766 @@
+{
+  "imports": {
+    "cce:/internal/x/cc": "./mods/cce/internal/x/cc.js",
+    "cce:/internal/x/prerequisite-imports": "./mods/cce/internal/x/prerequisite-imports.js"
+  },
+  "scopes": {
+    "./mods/fs/0/assets/Scripts/RunTime/EventManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Base/Singleton.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/NewComponent.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Base/Singleton.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Player/Player.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Player/IdleLeftStateMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Player/TurnLeftStateMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Player/TurnRightStateMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Player/TurnRightStateMachine%20copy.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js"
+    },
+    "./mods/fs/0/assets/Scripts/Player/BlockfrontStateMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Player/BlockfrontStateMachine%20copy.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js"
+    },
+    "./mods/fs/0/assets/Scripts/Player/BlockturnleftStateMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Player/BlockturnrightStateMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Player/BlockblackStateMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/WoodenSkeleton/IdleSubStateMachine.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js"
+    },
+    "./mods/fs/0/assets/Scripts/WoodenSkeleton/IdleSubStateMachines.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/SubStateMachine.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/WoodenSkeleton/AttackSubStateMachines.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/WoodenSkeleton/DeathSubStateMachines.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Utiils/index.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/WoodenSkeleton/WoodenSkeletonSubMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/EnityManger.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/StateMachine.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/WoodenSkeleton/AttackSubStateMachines.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/WoodenSkeleton/DeathSubStateMachines.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/WoodenSkeleton/IdleSubStateMachines.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Door/AttackSubStateMachines.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js"
+    },
+    "./mods/fs/0/assets/Scripts/Door/DoorIdleSubStateMachines.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Door/DoorDeathSubStateMachines.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/RunTime/ResourcesManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Base/Singleton.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Door/DoorSubMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/StateMachine.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Door/DoorDeathSubStateMachines.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Door/DoorIdleSubStateMachines.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/ironskeleton/AttackSubStateMachines.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js"
+    },
+    "./mods/fs/0/assets/Scripts/ironskeleton/IronskeletonDeathsubMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/ironskeleton/IronskeletonIdlesubMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/ironskeleton/IronskeletonManagerSubMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/EnityManger.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/StateMachine.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/ironskeleton/IronskeletonDeathsubMachine.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/ironskeleton/IronskeletonIdlesubMachine.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Burst/IdleSubStateMachines.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js"
+    },
+    "./mods/fs/0/assets/Scripts/Burst/AttackSubStateMachines.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js"
+    },
+    "./mods/fs/0/assets/Scripts/Burst/DeathSubStateMachines.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js"
+    },
+    "./mods/fs/0/assets/Scripts/Burst/BurstMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/StateMachine.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/ironskeleton/IronskeletonManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Base/EnemyManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/ironskeleton/IronskeletonManagerSubMachine.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Player/AirDeathSubStateMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Player/PlayerStateMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/EnityManger.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/StateMachine.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Player/AirDeathSubStateMachine.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Player/AttackDeathSubStateMachine.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Player/AttackSubStateMachine.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/Player/BlockblackStateMachine.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/Player/BlockfrontStateMachine.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/Player/BlockturnrightStateMachine.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/Player/IdleLeftStateMachine.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/Player/TurnLeftStateMachine.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Player/BlockturnleftStateMachine.js",
+      "__unresolved_13": "./mods/fs/0/assets/Scripts/Player/TurnRightStateMachine.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Base/SubStateMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/spikes/SpikesOneSubMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/spikes/SpikesSubMachine.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/spikes/SpikesOneSubMachine%20copy.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/spikes/SpikesSubMachine.js"
+    },
+    "./mods/fs/0/assets/Scripts/spikes/SpikesThreeSubMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/spikes/SpikesSubMachine.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/spikes/SpikesFourSubMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/spikes/SpikesSubMachine.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/spikes/SpikesSubMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/SubStateMachine.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/spikes/SpikesTwoSubMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/spikes/SpikesSubMachine.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level1.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Tile/TlieMapManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/RunTime/DataManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/RunTime/ResourcesManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Tile/TileManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Utiils/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Base/StateMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level3.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level5.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/spikes/SpikesMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/StateMachine.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/spikes/SpikesFourSubMachine.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/spikes/SpikesManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/spikes/SpikesOneSubMachine.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/spikes/SpikesThreeSubMachine.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/spikes/SpikesTwoSubMachine.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level11.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level12.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level13.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level14.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level15.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level16.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level10.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level7.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level6.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level8.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level9.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level4.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level2.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level22.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js"
+    },
+    "./mods/fs/0/assets/Scripts/Base/EnemyManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/EnityManger.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/RunTime/DataManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/RunTime/EventManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/WoodenSkeleton/WoodenSkeletonManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/EnemyManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/RunTime/DataManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/RunTime/EventManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/WoodenSkeleton/WoodenSkeletonSubMachine.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/smoke/SmokeDeathStateMachines.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/smoke/SmokeIdleStateMachines.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Base/EnityManger.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/smoke/SmokeManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Base/EnityManger.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/smoke/SmokeMachine.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Burst/BurstManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/EnityManger.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Burst/BurstMachine.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/RunTime/DataManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/RunTime/EventManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Player/AttackDeathSubStateMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Player/AttackSubStateMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Player/PlayerManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Base/State.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Player/PlayerManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/RunTime/ResourcesManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Utiils/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/RunTime/FaderManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Base/Singleton.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/UI/DrawManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Utiils/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/ShakeManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/RunTime/EventManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/smoke/SmokeMachine.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/StateMachine.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/smoke/SmokeIdleStateMachines.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/smoke/SmokeDeathStateMachines.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Base/EnityManger.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/RunTime/DataManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Base/Singleton.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level18.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level20.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level21.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level17.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/index.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Level/level1.js",
+      "__unresolved_10": "./mods/fs/0/assets/Level/level10.js",
+      "__unresolved_11": "./mods/fs/0/assets/Level/level11.js",
+      "__unresolved_12": "./mods/fs/0/assets/Level/level12.js",
+      "__unresolved_13": "./mods/fs/0/assets/Level/level13.js",
+      "__unresolved_14": "./mods/fs/0/assets/Level/level14.js",
+      "__unresolved_15": "./mods/fs/0/assets/Level/level15.js",
+      "__unresolved_16": "./mods/fs/0/assets/Level/level16.js",
+      "__unresolved_17": "./mods/fs/0/assets/Level/level17.js",
+      "__unresolved_18": "./mods/fs/0/assets/Level/level18.js",
+      "__unresolved_19": "./mods/fs/0/assets/Level/level19.js",
+      "__unresolved_2": "./mods/fs/0/assets/Level/level2.js",
+      "__unresolved_20": "./mods/fs/0/assets/Level/level20.js",
+      "__unresolved_21": "./mods/fs/0/assets/Level/level21.js",
+      "__unresolved_3": "./mods/fs/0/assets/Level/level3.js",
+      "__unresolved_4": "./mods/fs/0/assets/Level/level4.js",
+      "__unresolved_5": "./mods/fs/0/assets/Level/level5.js",
+      "__unresolved_6": "./mods/fs/0/assets/Level/level6.js",
+      "__unresolved_7": "./mods/fs/0/assets/Level/level7.js",
+      "__unresolved_8": "./mods/fs/0/assets/Level/level8.js",
+      "__unresolved_9": "./mods/fs/0/assets/Level/level9.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Door/DoorManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/EnityManger.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/Door/DoorSubMachine.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/RunTime/DataManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/RunTime/EventManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Tile/TileManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Level/level19.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Enums/index.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/MenuManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/RunTime/EventManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/spikes/SpikesManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Utiils/index.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/RunTime/EventManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/spikes/SpikesMachine.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/RunTime/DataManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/RunTime/AudioManager.js": {
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js",
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Base/Singleton.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/UIController.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/RunTime/DataManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/RunTime/EventManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Player/PlayerManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/Base/EnityManger.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Player/PlayerStateMachine.js",
+      "__unresolved_5": "./mods/fs/0/assets/Scripts/RunTime/DataManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/RunTime/EventManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/RunTime/MusicManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Base/EnityManger.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Utiils/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/Audio/AudioManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/RunTime/MusicManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Scripts/Audio/AudioManager.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/Base/Singleton.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Utiils/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/DrawManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/Scene/BattleManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Level/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/RunTime/DataManager.js",
+      "__unresolved_4": "./mods/fs/0/assets/Scripts/RunTime/EventManager.js",
+      "__unresolved_5": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/Player/PlayerManager.js",
+      "__unresolved_9": "./mods/fs/0/assets/Scripts/Door/DoorManager.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/Burst/BurstManager.js",
+      "__unresolved_14": "./mods/fs/0/assets/Scripts/RunTime/FaderManager.js",
+      "__unresolved_16": "./mods/fs/0/assets/Scripts/RunTime/MusicManager.js",
+      "__unresolved_3": "./mods/fs/0/assets/Scripts/Tile/TlieMapManager.js",
+      "__unresolved_15": "./mods/fs/0/assets/Scripts/UI/ShakeManager.js",
+      "__unresolved_6": "./mods/fs/0/assets/Scripts/Utiils/index.js",
+      "__unresolved_8": "./mods/fs/0/assets/Scripts/WoodenSkeleton/WoodenSkeletonManager.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/ironskeleton/IronskeletonManager.js",
+      "__unresolved_13": "./mods/fs/0/assets/Scripts/smoke/SmokeManager.js",
+      "__unresolved_12": "./mods/fs/0/assets/Scripts/spikes/SpikesManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/StartManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Scripts/RunTime/FaderManager.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/fs/0/assets/Scripts/UI/LoadingManager.js": {
+      "cc": "./mods/cce/internal/x/cc.js",
+      "__unresolved_1": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_0": "./mods/cce/internal/code-quality/cr.js"
+    },
+    "./mods/cce/internal/x/cc.js": {
+      "__unresolved_0": "cce:/internal/x/cc-fu/base",
+      "__unresolved_1": "cce:/internal/x/cc-fu/gfx-webgl",
+      "__unresolved_2": "cce:/internal/x/cc-fu/gfx-webgl2",
+      "__unresolved_3": "cce:/internal/x/cc-fu/3d",
+      "__unresolved_4": "cce:/internal/x/cc-fu/2d",
+      "__unresolved_5": "cce:/internal/x/cc-fu/ui",
+      "__unresolved_6": "cce:/internal/x/cc-fu/particle",
+      "__unresolved_7": "cce:/internal/x/cc-fu/particle-2d",
+      "__unresolved_8": "cce:/internal/x/cc-fu/physics-framework",
+      "__unresolved_9": "cce:/internal/x/cc-fu/physics-2d-framework",
+      "__unresolved_10": "cce:/internal/x/cc-fu/intersection-2d",
+      "__unresolved_11": "cce:/internal/x/cc-fu/primitive",
+      "__unresolved_12": "cce:/internal/x/cc-fu/profiler",
+      "__unresolved_13": "cce:/internal/x/cc-fu/audio",
+      "__unresolved_14": "cce:/internal/x/cc-fu/video",
+      "__unresolved_15": "cce:/internal/x/cc-fu/terrain",
+      "__unresolved_16": "cce:/internal/x/cc-fu/webview",
+      "__unresolved_17": "cce:/internal/x/cc-fu/tween",
+      "__unresolved_18": "cce:/internal/x/cc-fu/tiled-map",
+      "__unresolved_19": "cce:/internal/x/cc-fu/spine",
+      "__unresolved_20": "cce:/internal/x/cc-fu/dragon-bones"
+    },
+    "./mods/cce/internal/x/prerequisite-imports.js": {
+      "__unresolved_0": "./mods/fs/0/assets/Enums/index.js",
+      "__unresolved_1": "./mods/fs/0/assets/Level/index.js",
+      "__unresolved_2": "./mods/fs/0/assets/Level/level1.js",
+      "__unresolved_3": "./mods/fs/0/assets/Level/level10.js",
+      "__unresolved_4": "./mods/fs/0/assets/Level/level11.js",
+      "__unresolved_5": "./mods/fs/0/assets/Level/level12.js",
+      "__unresolved_6": "./mods/fs/0/assets/Level/level13.js",
+      "__unresolved_7": "./mods/fs/0/assets/Level/level14.js",
+      "__unresolved_8": "./mods/fs/0/assets/Level/level15.js",
+      "__unresolved_9": "./mods/fs/0/assets/Level/level16.js",
+      "__unresolved_10": "./mods/fs/0/assets/Level/level17.js",
+      "__unresolved_11": "./mods/fs/0/assets/Level/level18.js",
+      "__unresolved_12": "./mods/fs/0/assets/Level/level19.js",
+      "__unresolved_13": "./mods/fs/0/assets/Level/level2.js",
+      "__unresolved_14": "./mods/fs/0/assets/Level/level20.js",
+      "__unresolved_15": "./mods/fs/0/assets/Level/level21.js",
+      "__unresolved_16": "./mods/fs/0/assets/Level/level3.js",
+      "__unresolved_17": "./mods/fs/0/assets/Level/level4.js",
+      "__unresolved_18": "./mods/fs/0/assets/Level/level5.js",
+      "__unresolved_19": "./mods/fs/0/assets/Level/level6.js",
+      "__unresolved_20": "./mods/fs/0/assets/Level/level7.js",
+      "__unresolved_21": "./mods/fs/0/assets/Level/level8.js",
+      "__unresolved_22": "./mods/fs/0/assets/Level/level9.js",
+      "__unresolved_23": "./mods/fs/0/assets/Scripts/Audio/AudioManager.js",
+      "__unresolved_24": "./mods/fs/0/assets/Scripts/Base/EnemyManager.js",
+      "__unresolved_25": "./mods/fs/0/assets/Scripts/Base/EnityManger.js",
+      "__unresolved_26": "./mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js",
+      "__unresolved_27": "./mods/fs/0/assets/Scripts/Base/Singleton.js",
+      "__unresolved_28": "./mods/fs/0/assets/Scripts/Base/State.js",
+      "__unresolved_29": "./mods/fs/0/assets/Scripts/Base/StateMachine.js",
+      "__unresolved_30": "./mods/fs/0/assets/Scripts/Base/SubStateMachine.js",
+      "__unresolved_31": "./mods/fs/0/assets/Scripts/Burst/BurstMachine.js",
+      "__unresolved_32": "./mods/fs/0/assets/Scripts/Burst/BurstManager.js",
+      "__unresolved_33": "./mods/fs/0/assets/Scripts/Door/DoorDeathSubStateMachines.js",
+      "__unresolved_34": "./mods/fs/0/assets/Scripts/Door/DoorIdleSubStateMachines.js",
+      "__unresolved_35": "./mods/fs/0/assets/Scripts/Door/DoorManager.js",
+      "__unresolved_36": "./mods/fs/0/assets/Scripts/Door/DoorSubMachine.js",
+      "__unresolved_37": "./mods/fs/0/assets/Scripts/Player/AirDeathSubStateMachine.js",
+      "__unresolved_38": "./mods/fs/0/assets/Scripts/Player/AttackDeathSubStateMachine.js",
+      "__unresolved_39": "./mods/fs/0/assets/Scripts/Player/AttackSubStateMachine.js",
+      "__unresolved_40": "./mods/fs/0/assets/Scripts/Player/BlockblackStateMachine.js",
+      "__unresolved_41": "./mods/fs/0/assets/Scripts/Player/BlockfrontStateMachine.js",
+      "__unresolved_43": "./mods/fs/0/assets/Scripts/Player/BlockturnrightStateMachine.js",
+      "__unresolved_45": "./mods/fs/0/assets/Scripts/Player/PlayerManager.js",
+      "__unresolved_44": "./mods/fs/0/assets/Scripts/Player/IdleLeftStateMachine.js",
+      "__unresolved_46": "./mods/fs/0/assets/Scripts/Player/PlayerStateMachine.js",
+      "__unresolved_49": "./mods/fs/0/assets/Scripts/RunTime/DataManager.js",
+      "__unresolved_47": "./mods/fs/0/assets/Scripts/Player/TurnLeftStateMachine.js",
+      "__unresolved_42": "./mods/fs/0/assets/Scripts/Player/BlockturnleftStateMachine.js",
+      "__unresolved_50": "./mods/fs/0/assets/Scripts/RunTime/EventManager.js",
+      "__unresolved_51": "./mods/fs/0/assets/Scripts/RunTime/FaderManager.js",
+      "__unresolved_52": "./mods/fs/0/assets/Scripts/RunTime/MusicManager.js",
+      "__unresolved_53": "./mods/fs/0/assets/Scripts/RunTime/ResourcesManager.js",
+      "__unresolved_48": "./mods/fs/0/assets/Scripts/Player/TurnRightStateMachine.js",
+      "__unresolved_54": "./mods/fs/0/assets/Scripts/Scene/BattleManager.js",
+      "__unresolved_55": "./mods/fs/0/assets/Scripts/Tile/TileManager.js",
+      "__unresolved_56": "./mods/fs/0/assets/Scripts/Tile/TlieMapManager.js",
+      "__unresolved_57": "./mods/fs/0/assets/Scripts/UI/DrawManager.js",
+      "__unresolved_58": "./mods/fs/0/assets/Scripts/UI/LoadingManager.js",
+      "__unresolved_59": "./mods/fs/0/assets/Scripts/UI/MenuManager.js",
+      "__unresolved_60": "./mods/fs/0/assets/Scripts/UI/ShakeManager.js",
+      "__unresolved_61": "./mods/fs/0/assets/Scripts/UI/StartManager.js",
+      "__unresolved_62": "./mods/fs/0/assets/Scripts/UI/UIController.js",
+      "__unresolved_63": "./mods/fs/0/assets/Scripts/Utiils/index.js",
+      "__unresolved_64": "./mods/fs/0/assets/Scripts/WoodenSkeleton/AttackSubStateMachines.js",
+      "__unresolved_65": "./mods/fs/0/assets/Scripts/WoodenSkeleton/DeathSubStateMachines.js",
+      "__unresolved_66": "./mods/fs/0/assets/Scripts/WoodenSkeleton/IdleSubStateMachines.js",
+      "__unresolved_67": "./mods/fs/0/assets/Scripts/WoodenSkeleton/WoodenSkeletonManager.js",
+      "__unresolved_68": "./mods/fs/0/assets/Scripts/WoodenSkeleton/WoodenSkeletonSubMachine.js",
+      "__unresolved_69": "./mods/fs/0/assets/Scripts/ironskeleton/IronskeletonDeathsubMachine.js",
+      "__unresolved_70": "./mods/fs/0/assets/Scripts/ironskeleton/IronskeletonIdlesubMachine.js",
+      "__unresolved_71": "./mods/fs/0/assets/Scripts/ironskeleton/IronskeletonManager.js",
+      "__unresolved_72": "./mods/fs/0/assets/Scripts/ironskeleton/IronskeletonManagerSubMachine.js",
+      "__unresolved_73": "./mods/fs/0/assets/Scripts/smoke/SmokeDeathStateMachines.js",
+      "__unresolved_74": "./mods/fs/0/assets/Scripts/smoke/SmokeIdleStateMachines.js",
+      "__unresolved_75": "./mods/fs/0/assets/Scripts/smoke/SmokeMachine.js",
+      "__unresolved_76": "./mods/fs/0/assets/Scripts/smoke/SmokeManager.js",
+      "__unresolved_77": "./mods/fs/0/assets/Scripts/spikes/SpikesFourSubMachine.js",
+      "__unresolved_78": "./mods/fs/0/assets/Scripts/spikes/SpikesMachine.js",
+      "__unresolved_79": "./mods/fs/0/assets/Scripts/spikes/SpikesManager.js",
+      "__unresolved_80": "./mods/fs/0/assets/Scripts/spikes/SpikesOneSubMachine.js",
+      "__unresolved_81": "./mods/fs/0/assets/Scripts/spikes/SpikesSubMachine.js",
+      "__unresolved_82": "./mods/fs/0/assets/Scripts/spikes/SpikesThreeSubMachine.js",
+      "__unresolved_83": "./mods/fs/0/assets/Scripts/spikes/SpikesTwoSubMachine.js"
+    }
+  }
+}

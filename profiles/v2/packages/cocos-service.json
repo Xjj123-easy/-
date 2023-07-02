@@ -1,0 +1,28 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "ea7fed",
+      "services": []
+    },
+    "wechatgame": {
+      "configID": "ea7fed",
+      "services": []
+    },
+    "android": {
+      "configID": "ea7fed",
+      "services": []
+    },
+    "windows": {
+      "configID": "ea7fed",
+      "services": []
+    },
+    "web-mobile": {
+      "configID": "ea7fed",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "ea7fed",
+    "services": []
+  }
+}

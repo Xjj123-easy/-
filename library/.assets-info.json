@@ -1,0 +1,3514 @@
+{
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Enums": {
+    "time": 1684474873682.638,
+    "uuid": "b334c781-77b2-4840-8761-edef166461d0",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level": {
+    "time": 1687960261195.9375,
+    "uuid": "b5ee6a6c-4c98-41c7-bb39-b7ec666bdf5c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources": {
+    "time": 1688031421674.5588,
+    "uuid": "375bc491-95ed-411d-ba71-098fdfd9898e",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Enums\\index.ts": {
+    "time": 1688011638401.3052,
+    "uuid": "8d159354-3e2a-4518-85ba-f27d812d48fa",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\index.ts": {
+    "time": 1687960648196.082,
+    "uuid": "5152684e-73fe-4a25-b68d-8ee493e5c0f2",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level1.ts": {
+    "time": 1686125855555.3564,
+    "uuid": "df684edc-2549-422b-ac59-759bf318c73a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture": {
+    "time": 1688022244522.3545,
+    "uuid": "ff79dbae-2137-46b1-9b34-96575b8c7a1a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst": {
+    "time": 1684473453559.0652,
+    "uuid": "df257117-8531-41c3-8c8a-a44312158c84",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ctrl": {
+    "time": 1684473453568.064,
+    "uuid": "5050dd89-3ec6-4bda-9c10-1b1a9f83475f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door": {
+    "time": 1684473453574.065,
+    "uuid": "729ae195-06d0-47b4-86ae-01cf0c384566",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton": {
+    "time": 1684473453606.0635,
+    "uuid": "d1e1b3ca-b9c8-406e-91aa-fe14e8369598",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player": {
+    "time": 1684473453853.065,
+    "uuid": "5fcf402f-b037-42d9-a060-bfb749efe53f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke": {
+    "time": 1684473453870.0686,
+    "uuid": "d1ff8d9a-4a24-41c0-9608-5a1fa1deae4a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes": {
+    "time": 1684473453936.0674,
+    "uuid": "238dc72e-2bc4-4c2c-9f23-796e96301990",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\tile": {
+    "time": 1688010361324.9666,
+    "uuid": "0d59cd85-088c-4ac0-bdec-bb43ceeb1d2f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton": {
+    "time": 1684473453991.0637,
+    "uuid": "82ef35d9-2da1-45e6-a4ed-13cc24b2bec8",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\attack": {
+    "time": 1684473453555.0637,
+    "uuid": "c98f94a2-8352-4226-a441-88b2d86a433e",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\death": {
+    "time": 1684473453558.0662,
+    "uuid": "b2b8b42e-f3c4-4db3-ae83-a002c045ac20",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\idle": {
+    "time": 1684473453562.0647,
+    "uuid": "076b54a0-4480-4a0c-8b3f-58f3a7b82cad",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ctrl\\ctrl.plist": {
+    "time": 1684473453564.0637,
+    "uuid": "0d4bbcc3-f346-4cac-9424-63144a385768",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ctrl\\ctrl.png": {
+    "time": 1684473453567.0613,
+    "uuid": "b46e6855-bf0d-4343-97d8-b5d4b6323501",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\death": {
+    "time": 1684473453573.0637,
+    "uuid": "0ca565a1-71d6-4530-9feb-6989fe2dac7a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\idle": {
+    "time": 1684473453579.062,
+    "uuid": "f4ef8dae-553c-4955-aafa-825ed14a9aca",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death": {
+    "time": 1684473453600.064,
+    "uuid": "b1d79fab-b0da-4829-b77b-8f4d02992772",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle": {
+    "time": 1684473453619.0654,
+    "uuid": "25974c6c-b3a5-4d3e-a9c6-5a56793bd2d0",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath": {
+    "time": 1684473453645.0642,
+    "uuid": "3115cf21-0714-46c3-90d8-77f6e61be247",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack": {
+    "time": 1684473453663.0647,
+    "uuid": "fa80a6f2-ddbe-4586-8931-1ab48c8ddb7f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback": {
+    "time": 1684473453722.0637,
+    "uuid": "ba805e19-0d1e-420a-8bad-d5a38bd589fd",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront": {
+    "time": 1684473453743.064,
+    "uuid": "94a244c5-821f-41a1-a902-7899f84d43a7",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft": {
+    "time": 1684473453761.0652,
+    "uuid": "46aebad8-9ced-4788-aab1-dff5aa1850c9",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright": {
+    "time": 1684473453784.0642,
+    "uuid": "f2a2d28d-14e4-446a-be9b-46aa8d850238",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft": {
+    "time": 1684473453798.0652,
+    "uuid": "586f179b-feb9-4a85-8f0c-5e5ed38b0c3a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright": {
+    "time": 1684473453811.0627,
+    "uuid": "92066f26-c601-4ebe-8b2f-517bd91c5f21",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death": {
+    "time": 1684473453824.065,
+    "uuid": "1e4df7e0-14d6-4877-8e36-92651801376d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle": {
+    "time": 1684473453837.064,
+    "uuid": "a77d4a37-3543-4d63-a7d2-740c89adc7fc",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft": {
+    "time": 1684473453850.0623,
+    "uuid": "3ed08d29-54ba-48d7-bb47-1cdf66349d0a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright": {
+    "time": 1684473453862.063,
+    "uuid": "0520cd6f-3427-4c2d-addc-2b7f67cb5696",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\death": {
+    "time": 1684473453868.0635,
+    "uuid": "05a0c693-3de0-47d0-bdca-50307156e5e9",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle": {
+    "time": 1684473453879.098,
+    "uuid": "4838f403-bf9d-4dd0-86bd-3380693f6a00",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour": {
+    "time": 1684473453899.0674,
+    "uuid": "ca351f44-e0a1-4471-a6e1-1ed7e9255ea1",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone": {
+    "time": 1684473453909.0813,
+    "uuid": "16dcfc89-7679-4a21-9d2d-0ad3e18d25a3",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree": {
+    "time": 1684473453931.063,
+    "uuid": "b7831d1f-3074-4538-8c95-ba25bb5100ee",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo": {
+    "time": 1684473453950.0637,
+    "uuid": "ba66875d-9aa4-4d68-b287-0f7241c3793c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\tile\\tile.plist": {
+    "time": 1684473453955.0676,
+    "uuid": "e1fd0b7b-557b-4916-954d-e28193cff620",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\tile\\tile.png": {
+    "time": 1684473453957.0667,
+    "uuid": "b2612a55-d2ad-47a0-a34d-517bcbd2386c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack": {
+    "time": 1684473453972.098,
+    "uuid": "e06fe29e-926a-41c4-9aff-69fd272b350e",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death": {
+    "time": 1684473453988.063,
+    "uuid": "07165659-07f8-4e9e-872a-050248ef7271",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle": {
+    "time": 1684473454002.0635,
+    "uuid": "79994793-2393-4f97-b151-3e748c240efa",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\attack\\idle.plist": {
+    "time": 1684473453552.0637,
+    "uuid": "078d1b30-1aa1-4e17-8e39-f97fc48d93e1",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\attack\\idle.png": {
+    "time": 1684473453554.0667,
+    "uuid": "c852154a-1ded-4a74-bb83-3a43d8ba63dd",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\death\\idle.plist": {
+    "time": 1684473453556.064,
+    "uuid": "919797f5-657b-43b7-9db8-8761687824d6",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\death\\idle.png": {
+    "time": 1684473453558.0662,
+    "uuid": "1a079863-215f-4b7c-83d9-2633f2412fd5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\idle\\idle.plist": {
+    "time": 1684473453560.066,
+    "uuid": "372a30b9-2c2c-400a-9907-bc667a7aaba6",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\idle\\idle.png": {
+    "time": 1684473453561.065,
+    "uuid": "9706a534-7eb7-4e65-b307-239d405c6b04",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\death\\death.plist": {
+    "time": 1684473453571.0637,
+    "uuid": "bb79db3e-f3f1-4996-903f-a1e79103bc3c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\death\\death.png": {
+    "time": 1684473453572.0625,
+    "uuid": "a881ee54-5281-40fc-b7c8-692273b006c5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\idle\\left": {
+    "time": 1684473453577.0637,
+    "uuid": "14c6c0c8-72c9-490f-b8a0-2845e12e7c65",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\idle\\top": {
+    "time": 1684473453583.0657,
+    "uuid": "71357945-8e8f-44dc-9b8b-1e27bc30b1fc",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\bottom": {
+    "time": 1684473453589.0642,
+    "uuid": "1c48effc-52f3-4dea-b049-fac6bf2f4582",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\left": {
+    "time": 1684473453593.0635,
+    "uuid": "98665758-f0ba-48c0-aa0b-5a898bb4a554",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\right": {
+    "time": 1684473453596.063,
+    "uuid": "fb14c060-ccd0-4749-826d-2e05ddcd0f9b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\top": {
+    "time": 1684473453605.0647,
+    "uuid": "c0c123ba-bead-4b72-bd06-91c99b725f58",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\bottom": {
+    "time": 1684473453609.0627,
+    "uuid": "78b91f3f-2b5e-4861-86fe-b9a040cbe151",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\left": {
+    "time": 1684473453613.0637,
+    "uuid": "fa47b15f-0dce-45ac-94c2-90b67c9e1209",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\right": {
+    "time": 1684473453618.064,
+    "uuid": "dd1ab0cf-e2d8-4a18-8d7f-37d9d7bf2ee9",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\top": {
+    "time": 1684473453622.0657,
+    "uuid": "1f44276b-9dee-43ed-8bea-58e51efc03e3",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\bottom": {
+    "time": 1684473453627.0637,
+    "uuid": "7d4c46a3-e369-4c8f-93ee-3a003745dccb",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\left": {
+    "time": 1684473453639.0806,
+    "uuid": "dd5a21c4-ec96-460b-a361-1dcf25432c76",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\right": {
+    "time": 1684473453643.0632,
+    "uuid": "f4bfdf4a-3ee3-4c31-a83a-eab7e3089a7e",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\top": {
+    "time": 1684473453648.062,
+    "uuid": "c426ef32-2ebc-4f85-90cc-3b7a4c916296",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\bottom": {
+    "time": 1684908222814.068,
+    "uuid": "0dbeef88-8855-4d01-a70e-91f286936cf8",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\left": {
+    "time": 1684473453657.063,
+    "uuid": "22f5a935-663a-40ad-b0a8-f165ab222c12",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\right": {
+    "time": 1684473453661.0635,
+    "uuid": "c842e3a8-45ae-4ed1-b9f5-caadbc2c5db3",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\top": {
+    "time": 1684908230462.3079,
+    "uuid": "d5ef1d71-1394-4659-a10c-098af1c3d54f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\bottom": {
+    "time": 1684473453673.0642,
+    "uuid": "24b82bd7-1a3b-4d5f-8396-4258a0e7e639",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\left": {
+    "time": 1684473453717.065,
+    "uuid": "00393a04-8db8-4cb6-a6a6-d9d6e4a3f0e1",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\right": {
+    "time": 1684473453720.0637,
+    "uuid": "ace69bd2-6c2d-46ba-837f-de7f22d78db7",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\top": {
+    "time": 1684473453725.0654,
+    "uuid": "4505fd0e-320b-43d2-b558-d64df60e9b0d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\bottom": {
+    "time": 1684473453731.065,
+    "uuid": "1ed4bd47-4952-441a-a9de-f8abd83fb26a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\left": {
+    "time": 1684473453736.0618,
+    "uuid": "87c8ffa7-b5c9-4af9-a3ce-b39574d01efa",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\right": {
+    "time": 1684473453741.0623,
+    "uuid": "63f8d7b5-5d12-4930-91fd-8f0b28804e1a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\top": {
+    "time": 1684473453745.0657,
+    "uuid": "11bb1570-d389-4fd9-aa92-941666d4bc9d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\bottom": {
+    "time": 1684473453751.0637,
+    "uuid": "9f6e87c8-2699-4aa0-9452-f96de051e3ed",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\left": {
+    "time": 1684473453755.0635,
+    "uuid": "893a8f6e-d0ea-4591-a170-503d7b262c47",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\right": {
+    "time": 1684473453759.076,
+    "uuid": "ab390129-5ea0-4be7-825a-4945a1030562",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\top": {
+    "time": 1684473453763.067,
+    "uuid": "0c2c780a-d01f-461c-9f35-4e5347b6c3f0",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\bottom": {
+    "time": 1684473453769.0647,
+    "uuid": "21a258cc-dad1-4f15-aeaf-e05d9ac6cd43",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\left": {
+    "time": 1684473453778.0984,
+    "uuid": "a3816462-fb93-48d6-a553-dea2e46aeead",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\right": {
+    "time": 1684473453782.0662,
+    "uuid": "bc8b45e8-2c04-47b5-b248-b632ccf679da",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\top": {
+    "time": 1684473453787.0662,
+    "uuid": "851ef456-9965-4c4b-9d57-48e2abc6ce04",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\bottom": {
+    "time": 1684473453791.0637,
+    "uuid": "a849e685-7261-410a-9c27-8aa9aafa6915",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\left": {
+    "time": 1684473453794.0635,
+    "uuid": "e7f4db32-50e2-47c7-8701-ef946baf6673",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\right": {
+    "time": 1684473453797.0625,
+    "uuid": "3cf74f09-753f-40d5-81ae-20e68f27cba6",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\top": {
+    "time": 1684473453800.062,
+    "uuid": "12b2aca4-0fa0-4fbd-8198-caf11d4bff15",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\bottom": {
+    "time": 1684473453804.0635,
+    "uuid": "1f03ed0a-ff35-44b3-a61d-8aa12291d788",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\left": {
+    "time": 1684473453806.0627,
+    "uuid": "5dfa765b-dfad-4536-befb-77a8fbec126b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\right": {
+    "time": 1684473453809.07,
+    "uuid": "486042f6-228f-4d7a-985c-167c72ad4dcf",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\top": {
+    "time": 1684473453812.0632,
+    "uuid": "0f3bd01c-1601-402e-9100-3d85d2547baf",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\bottom": {
+    "time": 1684473453816.0637,
+    "uuid": "ecb690cd-9a94-41aa-ae0f-26339e9ac6d0",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\left": {
+    "time": 1684473453819.0632,
+    "uuid": "e2d76522-3721-40a7-9ee5-f58e87fb9b8c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\right": {
+    "time": 1684473453823.0635,
+    "uuid": "cbe44f8f-5868-4d30-8171-cd359d348ef3",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\top": {
+    "time": 1684473453826.0603,
+    "uuid": "45083301-0bdc-4dea-8275-c4103df17c41",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\bottom": {
+    "time": 1684473453829.0608,
+    "uuid": "0c251cb4-7c8f-4f38-a996-6f0239a6eeca",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\left": {
+    "time": 1684473453833.0654,
+    "uuid": "30ea9f17-6510-493c-91f7-88a1ecc3849a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\right": {
+    "time": 1684473453836.063,
+    "uuid": "da7f2a09-2442-423a-bd8c-e18748d962c3",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\top": {
+    "time": 1684473453839.0642,
+    "uuid": "c791d3c1-972b-4cca-ad59-22fcb1a3c1ed",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\bottom": {
+    "time": 1684473453843.063,
+    "uuid": "b1f76e37-124c-41e4-85f5-8b7d2bac89c5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\left": {
+    "time": 1684473453845.0632,
+    "uuid": "e9ce2b17-4882-40e4-a8e1-27b0ccaa360d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\right": {
+    "time": 1684473453848.0637,
+    "uuid": "8c51013e-f8a2-4583-97ee-0bc506edcb48",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\top": {
+    "time": 1684473453852.0623,
+    "uuid": "8e81c95e-7bb3-45ae-a97f-f1e992c37ae2",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\bottom": {
+    "time": 1684473453856.0635,
+    "uuid": "f7a60e34-cb3c-4e3f-99ee-e6a80ac48f6a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\left": {
+    "time": 1684473453858.0635,
+    "uuid": "29cfca8c-a101-4e4b-ac19-89bfce8bff3a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\right": {
+    "time": 1684473453861.0625,
+    "uuid": "9619e63f-9322-410e-93ef-8887bb7a6cee",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\top": {
+    "time": 1684473453864.063,
+    "uuid": "88dbfc96-6922-4d16-aa15-1a59ceced645",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\bottom": {
+    "time": 1684473453872.0642,
+    "uuid": "f07384e1-a3c4-44f5-9847-496e41c9df09",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\left": {
+    "time": 1684473453875.0625,
+    "uuid": "86449a77-3e87-4ce2-a558-e5b62ef5522e",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\right": {
+    "time": 1684473453878.0977,
+    "uuid": "46313550-11f9-42d9-b049-4004e4f842ed",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\top": {
+    "time": 1684473453881.0974,
+    "uuid": "7ab1901e-ce23-4ba7-92a7-d71bab4f00d7",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\five": {
+    "time": 1684473453886.0657,
+    "uuid": "03942af1-b13e-424b-adcc-6d8e7c6682d5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\four": {
+    "time": 1684473453889.0654,
+    "uuid": "dc5ea1ba-a331-4879-be78-6c4a8cc62ad3",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\one": {
+    "time": 1684473453892.0635,
+    "uuid": "572cad2b-eff9-4603-a374-db555cbb7539",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\three": {
+    "time": 1684473453895.0977,
+    "uuid": "af702ab0-bd92-4aa6-b2ea-51292a6c2b39",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\two": {
+    "time": 1684473453898.0637,
+    "uuid": "77df9a62-9c87-477b-a720-40ec91db79d2",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\zero": {
+    "time": 1684473453902.0984,
+    "uuid": "b04905ef-7cae-4b35-8155-489c984574ab",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\one": {
+    "time": 1684473453905.065,
+    "uuid": "28257742-c782-4d25-88f7-86de273a6c1c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\two": {
+    "time": 1684473453908.0647,
+    "uuid": "4154b157-8e6e-4275-abb6-ba88bc8d5ffc",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\zero": {
+    "time": 1684473453911.0623,
+    "uuid": "7dd91bbd-0225-4cbe-8836-dbfe289b0832",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\four": {
+    "time": 1684473453918.0647,
+    "uuid": "7c428e26-e129-4ce7-be23-91df7a9d29db",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\one": {
+    "time": 1684473453922.0688,
+    "uuid": "d194d677-dcac-4a97-b487-8001de2f62d3",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\three": {
+    "time": 1684473453925.0674,
+    "uuid": "19951031-c86a-4488-aa21-8e84e56a0e0f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\two": {
+    "time": 1684473453930.0642,
+    "uuid": "c76da16f-5913-4fc7-b821-941ee2e5ac4c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\zero": {
+    "time": 1684473453935.0632,
+    "uuid": "38647b70-dda9-4572-a896-208338964b79",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\one": {
+    "time": 1684473453940.0623,
+    "uuid": "07b4bd8b-eda5-422b-9890-171d73d40671",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\three": {
+    "time": 1684473453944.0637,
+    "uuid": "0473c0fd-dbe5-4c0a-946c-f16b9b328c38",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\two": {
+    "time": 1684473453949.0642,
+    "uuid": "8b64fdeb-761d-46ac-89e5-23f483bfe579",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\zero": {
+    "time": 1684473453953.0632,
+    "uuid": "21204d10-466d-4e8d-8929-d623798fb614",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\bottom": {
+    "time": 1684473453962.0654,
+    "uuid": "02bb207e-e5b1-4e68-9e23-c064c6223420",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\left": {
+    "time": 1684473453967.1003,
+    "uuid": "ab4a8135-4556-46e9-9a51-2add21f81235",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\right": {
+    "time": 1684473453970.0632,
+    "uuid": "4df2765e-ed87-4ce1-a68d-ed357e62cd27",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\top": {
+    "time": 1684473453974.0642,
+    "uuid": "15745871-a84a-46ca-910a-faad4a84b725",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\bottom": {
+    "time": 1684473453978.0664,
+    "uuid": "420da276-a164-40c4-9bd2-ac4566ffbfd5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\left": {
+    "time": 1684473453983.0627,
+    "uuid": "b54c1029-b698-4f57-906b-3988195d6431",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\right": {
+    "time": 1684473453987.0635,
+    "uuid": "75d55cc6-35e4-468e-b27b-89c3a6c3ac1d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\top": {
+    "time": 1684473453990.0632,
+    "uuid": "629abe2e-0114-4b55-b279-e677466ebdd6",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\bottom": {
+    "time": 1684473453993.0637,
+    "uuid": "8a6e655c-c3b4-4830-a9ba-5f5e66612bda",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\left": {
+    "time": 1684473453997.0654,
+    "uuid": "46f29900-d229-40b2-92b4-18404f4a2cf9",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\right": {
+    "time": 1684473454001.0654,
+    "uuid": "3d91cc32-0987-48c1-9792-d052334017cd",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\top": {
+    "time": 1684473454004.0637,
+    "uuid": "101e8188-473b-40b5-906a-b3acb08833c9",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\idle\\left\\idle.plist": {
+    "time": 1684473453576.0637,
+    "uuid": "96817283-01f9-43f6-9dc5-d31b8ed67581",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\idle\\left\\idle.png": {
+    "time": 1684473453577.0637,
+    "uuid": "81e0e0ff-10db-40b6-9fc4-0a08ca2fe0a2",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\idle\\top\\idle.plist": {
+    "time": 1684473453580.0637,
+    "uuid": "a0291cb4-d737-4dbc-bcc8-1a34c8303be6",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\idle\\top\\idle.png": {
+    "time": 1684473453581.0642,
+    "uuid": "36e0d14e-931f-4821-8665-33c46251a1fa",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\bottom\\death.plist": {
+    "time": 1684473453587.0637,
+    "uuid": "f80ccb3a-7489-48a9-8eac-3adc79053c8d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\bottom\\death.png": {
+    "time": 1684473453589.0642,
+    "uuid": "48ee5939-6cb8-43e4-b2fa-a314a3146e62",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\left\\death.plist": {
+    "time": 1684473453591.0667,
+    "uuid": "968946d9-1032-43f6-939b-381ff0089b08",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\left\\death.png": {
+    "time": 1684473453592.0664,
+    "uuid": "5ebc1fdf-a5db-47b8-be13-22d29caa8b43",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\right\\death.plist": {
+    "time": 1684473453594.0627,
+    "uuid": "391786df-2c8b-417e-aeb5-94f507af2c96",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\right\\death.png": {
+    "time": 1684473453596.063,
+    "uuid": "546ae41d-f7be-4100-be38-4925bc87dbcf",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\top\\death.plist": {
+    "time": 1684473453602.0652,
+    "uuid": "5e0cb268-95b1-4c83-992b-5b7c3a411575",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\top\\death.png": {
+    "time": 1684473453604.062,
+    "uuid": "54cbe7e0-e376-404d-b3eb-4577dc08e008",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\bottom\\idle.plist": {
+    "time": 1684473453607.0615,
+    "uuid": "264a1d6b-e3fd-4f3d-8ecf-aec682c35b76",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\bottom\\idle.png": {
+    "time": 1684473453608.0635,
+    "uuid": "b09cc749-ea22-45d6-9a46-b2efd1b25532",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\left\\idle.plist": {
+    "time": 1684473453610.0608,
+    "uuid": "9fccc2ff-7e15-4834-8598-19ec37e981f4",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\left\\idle.png": {
+    "time": 1684473453612.0623,
+    "uuid": "0cff2e2c-a415-46e2-b835-c9468a6dfdb5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\right\\idle.plist": {
+    "time": 1684473453616.0642,
+    "uuid": "b86f2fe8-f77c-4abc-a10e-997c438b502e",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\right\\idle.png": {
+    "time": 1684473453618.064,
+    "uuid": "7f61e510-929f-4d74-890a-7af04c794162",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\top\\idle.plist": {
+    "time": 1684473453620.0615,
+    "uuid": "54c5d79c-3fe7-42be-b986-9d60af12fb66",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\top\\idle.png": {
+    "time": 1684473453621.0618,
+    "uuid": "6e0191e9-f28b-4e0a-8cb6-5a0f564118cd",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\bottom\\death.plist": {
+    "time": 1684473453625.0632,
+    "uuid": "6efd3e74-91db-4088-af06-c9dad16a1247",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\bottom\\death.png": {
+    "time": 1684473453627.0637,
+    "uuid": "8d3022df-573e-4da7-8776-b3ff10ae00c5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\left\\death.plist": {
+    "time": 1684473453630.066,
+    "uuid": "8450e845-67c0-441d-9694-ea535fe8f781",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\left\\death.png": {
+    "time": 1684473453639.0806,
+    "uuid": "ae347201-a021-48b2-b264-8efb6eb74ed3",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\right\\death.plist": {
+    "time": 1684473453641.0623,
+    "uuid": "ea65ea39-46d2-43aa-abbb-ade1da899f80",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\right\\death.png": {
+    "time": 1684473453642.0625,
+    "uuid": "a6badd2b-4e29-4369-bc21-4d1da7f73826",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\top\\death.plist": {
+    "time": 1684473453646.0647,
+    "uuid": "4f388892-e630-4d43-9a03-fe96cd2ef513",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\top\\death.png": {
+    "time": 1684473453647.0654,
+    "uuid": "c8777e1e-ae58-4e55-9940-ee8d87cbcff5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\bottom\\attack.plist": {
+    "time": 1684473453652.0615,
+    "uuid": "5772e697-94b3-4422-a73c-9474864d26d9",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\bottom\\attack.png": {
+    "time": 1684473453653.0627,
+    "uuid": "bbea5a53-0128-4bc9-8424-dfb8285a9f80",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\left\\attack.plist": {
+    "time": 1684473453655.072,
+    "uuid": "504b6b50-bd7c-41ec-901d-69a5763257ce",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\left\\attack.png": {
+    "time": 1684473453656.063,
+    "uuid": "bc31bf02-13e5-4c9c-9918-928072ec6c2c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\right\\attack.plist": {
+    "time": 1684473453658.063,
+    "uuid": "c31a0229-cb68-4b1f-91be-457a7d2ccdbc",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\right\\attack.png": {
+    "time": 1684473453661.0635,
+    "uuid": "a2ea894a-b1a5-4c1c-bdcc-c0b9929f3528",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\top\\attack.plist": {
+    "time": 1684473453664.063,
+    "uuid": "2b32f8be-e1b8-4ed3-8c7a-6b85f0f34b89",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\top\\attack.png": {
+    "time": 1684473453666.0652,
+    "uuid": "a3003a24-e744-4d74-bba7-236cd4841d17",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\bottom\\blockback.plist": {
+    "time": 1684473453671.064,
+    "uuid": "cccee566-5bea-4d23-9ad8-687de0e648c9",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\bottom\\blockback.png": {
+    "time": 1684473453672.0625,
+    "uuid": "a5a006a0-45ff-4e6e-879e-1cb6181cc8d8",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\left\\blockback.plist": {
+    "time": 1684473453691.0603,
+    "uuid": "a9b7933a-f445-462d-a9a0-80c2b0d20ba0",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\left\\blockback.png": {
+    "time": 1684473453693.0625,
+    "uuid": "979f9c3d-f5e7-457b-b4f5-e6bdb043d77b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\right\\blockback.plist": {
+    "time": 1684473453719.0635,
+    "uuid": "3b47725d-bc33-4b7a-b6f8-3b98d3b4f92b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\right\\blockback.png": {
+    "time": 1684473453720.0637,
+    "uuid": "02b7f1a6-8026-49c7-9196-905ee5608527",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\top\\blockback.plist": {
+    "time": 1684473453723.0623,
+    "uuid": "d129ed3f-1efb-4048-a0bf-32c903328aed",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\top\\blockback.png": {
+    "time": 1684473453724.065,
+    "uuid": "e0831215-bdf6-4c32-8a23-37a2f8d59d5d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\bottom\\blockfront.plist": {
+    "time": 1684473453729.0635,
+    "uuid": "9ae79d13-4776-47d9-87e2-dccb9a494890",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\bottom\\blockfront.png": {
+    "time": 1684473453730.0623,
+    "uuid": "ada6ed76-870b-45b1-87ba-1248bc77fc52",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\left\\blockfront.plist": {
+    "time": 1684473453734.066,
+    "uuid": "e170cabd-21ba-4df2-a985-dac3fd2a882a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\left\\blockfront.png": {
+    "time": 1684473453736.0618,
+    "uuid": "fe9fc5cc-4144-4024-b360-1ab1ecfa3239",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\right\\blockfront.plist": {
+    "time": 1684473453738.0627,
+    "uuid": "aee7b7bd-a225-48fc-b306-c6f8f2e0143b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\right\\blockfront.png": {
+    "time": 1684473453740.062,
+    "uuid": "5bd5d291-01d7-443c-86f9-d2e49582bc82",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\top\\blockfront.plist": {
+    "time": 1684473453743.064,
+    "uuid": "e9463f94-9cf7-48af-8b5f-e37b7c704f97",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\top\\blockfront.png": {
+    "time": 1684473453745.0657,
+    "uuid": "b97f1dd2-1de1-494a-a015-362df68db4e9",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\bottom\\blockleft.plist": {
+    "time": 1684473453749.0623,
+    "uuid": "4203adb1-d14e-4d44-bf17-c6b2b6de384b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\bottom\\blockleft.png": {
+    "time": 1684473453751.0637,
+    "uuid": "5027fda5-b4fd-43d9-aca5-10ee5a05ca84",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\left\\blockleft.plist": {
+    "time": 1684473453753.0608,
+    "uuid": "c22fd300-193f-479b-bdf4-117c878bfe12",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\left\\blockleft.png": {
+    "time": 1684473453754.068,
+    "uuid": "c01864bb-6fe1-48f9-a1a8-9a1548201969",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\right\\blockleft.plist": {
+    "time": 1684473453757.0647,
+    "uuid": "8744551f-9253-46b2-aebd-ce43c9840e2d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\right\\blockleft.png": {
+    "time": 1684473453758.0645,
+    "uuid": "6536a28f-cd59-46bf-9f3d-619fbbbc5519",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\top\\blockleft.plist": {
+    "time": 1684473453761.0652,
+    "uuid": "dd6b8b41-59ff-4f5d-8c1c-172189e12227",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\top\\blockleft.png": {
+    "time": 1684473453763.067,
+    "uuid": "b0be4892-479e-4ca4-8397-0c1dc426b4c2",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\bottom\\blockright.plist": {
+    "time": 1684473453766.068,
+    "uuid": "d05ba9c1-ca05-4844-aef7-4914ddeb7f62",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\bottom\\blockright.png": {
+    "time": 1684473453767.0613,
+    "uuid": "2843127c-f8c4-4ff9-9066-d1399d87c5bf",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\left\\blockright.plist": {
+    "time": 1684473453770.0637,
+    "uuid": "d3589225-366a-45c6-92a0-5b46ec8afc7a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\left\\blockright.png": {
+    "time": 1684473453771.0635,
+    "uuid": "ac5ce64d-cecc-4f39-8a06-f0d6b3128928",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\right\\blockright.plist": {
+    "time": 1684473453780.0637,
+    "uuid": "36fb2bd0-e4e8-4f12-8529-d934c37c1008",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\right\\blockright.png": {
+    "time": 1684473453781.0623,
+    "uuid": "4ea8a053-cd59-4093-a430-947f3b373cd5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\top\\blockright.plist": {
+    "time": 1684473453785.0654,
+    "uuid": "200f2a96-da21-4286-933c-0437182e21d1",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\top\\blockright.png": {
+    "time": 1684473453786.0662,
+    "uuid": "671107b3-483a-4fcc-8e70-2222e1273f65",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\bottom\\blockturnleft.plist": {
+    "time": 1684473453790.0642,
+    "uuid": "7418d2ae-ae75-42b2-8df0-645d43a45f23",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\bottom\\blockturnleft.png": {
+    "time": 1684473453791.0637,
+    "uuid": "37f5e633-e502-4bcc-a52e-f8a919eff6a6",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\left\\blockturnleft.plist": {
+    "time": 1684473453793.064,
+    "uuid": "4bcb2c70-ebf4-41a8-b258-f07efbb2b24e",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\left\\blockturnleft.png": {
+    "time": 1684473453794.0635,
+    "uuid": "216a84b9-d67d-462d-88f6-453d9842810d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\right\\blockturnleft.plist": {
+    "time": 1684473453795.063,
+    "uuid": "d52de85c-2bf3-41bb-a8a2-fe8935749f42",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\right\\blockturnleft.png": {
+    "time": 1684473453796.0632,
+    "uuid": "ad6fd80b-fa8c-40f2-a5ce-3d315a272bb3",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\top\\blockturnleft.plist": {
+    "time": 1684473453799.0647,
+    "uuid": "9f3e4f03-0ca4-4e46-a632-aba1504ead55",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\top\\blockturnleft.png": {
+    "time": 1684473453800.062,
+    "uuid": "065fff35-8338-4de8-b2dd-26afc40abf36",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\bottom\\blockturnright.plist": {
+    "time": 1684473453802.063,
+    "uuid": "fd374ded-9bbc-42b8-83e1-f1da94f26457",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\bottom\\blockturnright.png": {
+    "time": 1684473453803.0625,
+    "uuid": "b6682a2e-2894-4aa8-b920-7f387f775376",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\left\\blockturnright.plist": {
+    "time": 1684473453805.0642,
+    "uuid": "e2425347-8f52-4c12-9692-a0ac04233fe5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\left\\blockturnright.png": {
+    "time": 1684473453806.0627,
+    "uuid": "7ca52dbb-d34c-4fdb-aa5f-3764d7aa11b9",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\right\\blockturnright.plist": {
+    "time": 1684473453808.0645,
+    "uuid": "dbf0e53e-65ea-4993-b9a6-8902c6ca68b3",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\right\\blockturnright.png": {
+    "time": 1684473453809.07,
+    "uuid": "b72e0c11-216d-48f5-b6a5-a471429d4c86",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\top\\blockturnright.plist": {
+    "time": 1684473453811.0627,
+    "uuid": "fe28e12f-9460-4208-88c7-0847e493bf86",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\top\\blockturnright.png": {
+    "time": 1684473453812.0632,
+    "uuid": "0d274969-ea23-4b60-9dc4-c1ae30cf57a4",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\bottom\\death.plist": {
+    "time": 1684473453814.063,
+    "uuid": "90ea1211-e30e-4772-9369-ab7369f3429c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\bottom\\death.png": {
+    "time": 1684473453816.0637,
+    "uuid": "3600c9da-8f96-4584-9859-68574dec749a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\left\\death.plist": {
+    "time": 1684473453818.0637,
+    "uuid": "071f6e03-71ad-47b4-b0c8-1a5ea7ebde3b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\left\\death.png": {
+    "time": 1684473453819.0632,
+    "uuid": "93128878-b5d4-40a7-b633-5a6fccbff58e",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\right\\death.plist": {
+    "time": 1684473453821.0652,
+    "uuid": "9fd83283-24e5-4239-8232-b60bd91dff9e",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\right\\death.png": {
+    "time": 1684473453822.0613,
+    "uuid": "dfd957f6-2918-4e10-a191-ce64ef4f9578",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\top\\death.plist": {
+    "time": 1684473453824.065,
+    "uuid": "0c940be2-d9e2-4ce4-a5e1-8bbc49b8e801",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\top\\death.png": {
+    "time": 1684473453825.0625,
+    "uuid": "b087f45f-22ee-4035-87d2-731cce96046f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\bottom\\idle.plist": {
+    "time": 1684473453828.0632,
+    "uuid": "0394b5c9-8e68-4869-984a-77f0e105ed6f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\bottom\\idle.png": {
+    "time": 1684473453829.0608,
+    "uuid": "c185edc2-c3a7-4bed-b43b-9b8626335cb4",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\left\\idle.plist": {
+    "time": 1684473453831.0637,
+    "uuid": "b7b564bd-77e5-4ef2-95be-6c92f4862592",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\left\\idle.png": {
+    "time": 1684473453832.0637,
+    "uuid": "4587d893-cdca-4964-b6cd-5e3d6c4ed5c1",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\right\\idle.plist": {
+    "time": 1684473453834.0637,
+    "uuid": "c439fcf9-34e4-4750-a0b3-03b568388616",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\right\\idle.png": {
+    "time": 1684473453835.063,
+    "uuid": "ee1b3846-0a46-4746-b7c6-37f024eb8c95",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\top\\idle.plist": {
+    "time": 1684473453838.0676,
+    "uuid": "e266ec6f-22fc-44a7-ab34-2091dc3b96b4",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\top\\idle.png": {
+    "time": 1684473453839.0642,
+    "uuid": "dde7c784-70a5-4d40-a95b-39f3085e4acf",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\bottom\\turnleft.plist": {
+    "time": 1684473453841.063,
+    "uuid": "62848eb2-58ba-44b7-b74d-94f42c183624",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\bottom\\turnleft.png": {
+    "time": 1684473453842.0632,
+    "uuid": "1f133f1d-fe97-4062-ab1e-f188bf8cf896",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\left\\turnleft.plist": {
+    "time": 1684473453844.063,
+    "uuid": "93f05d33-587c-4883-955a-68599c99af6a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\left\\turnleft.png": {
+    "time": 1684473453845.0632,
+    "uuid": "34de8fc7-ebc4-4cc8-ad0c-ecb85451bf68",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\right\\turnleft.plist": {
+    "time": 1684473453846.0635,
+    "uuid": "13623d20-f12e-432f-99af-e15676a96866",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\right\\turnleft.png": {
+    "time": 1684473453848.0637,
+    "uuid": "e1f884e2-9cd1-4d13-90c3-67d52c9446aa",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\top\\turnleft.plist": {
+    "time": 1684473453850.0623,
+    "uuid": "0e9215fb-316d-4c7a-b95a-f840280eec6d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\top\\turnleft.png": {
+    "time": 1684473453851.0608,
+    "uuid": "c4f2ef87-25e1-4db9-ad42-257623bdde2c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\bottom\\turnright.plist": {
+    "time": 1684473453854.0664,
+    "uuid": "8cbc63bc-63d2-4ead-a03c-3aa1b2814358",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\bottom\\turnright.png": {
+    "time": 1684473453855.0657,
+    "uuid": "b13a7f31-9ebf-4085-8dc2-12f094b9776a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\left\\turnright.plist": {
+    "time": 1684473453857.063,
+    "uuid": "d5b48725-75ae-4168-8629-cb479e276978",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\left\\turnright.png": {
+    "time": 1684473453858.0635,
+    "uuid": "1e95cb83-767a-48a6-9b5b-56f02346379c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\right\\turnright.plist": {
+    "time": 1684473453860.0623,
+    "uuid": "9148e96f-fb29-44e2-94b9-447b6f68efd4",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\right\\turnright.png": {
+    "time": 1684473453861.0625,
+    "uuid": "168e0668-32ae-467b-b27b-ed9731258a03",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\top\\turnright.plist": {
+    "time": 1684473453863.0632,
+    "uuid": "0b4373d5-fc3d-47b1-8ab4-1448669078c6",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\top\\turnright.png": {
+    "time": 1684473453864.063,
+    "uuid": "459f7f63-0e4d-4e44-a23e-61284c50de9a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\bottom\\idle.plist": {
+    "time": 1684473453871.0642,
+    "uuid": "763b6698-6865-4049-a14a-0e46f997d7c5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\bottom\\idle.png": {
+    "time": 1684473453872.0642,
+    "uuid": "1b5e7928-e56d-4eaf-9a0e-a3e996b2f6ef",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\left\\idle.plist": {
+    "time": 1684473453874.0635,
+    "uuid": "54c17eb3-38f4-4ace-aa5d-5ccc3bce3bf9",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\left\\idle.png": {
+    "time": 1684473453875.0625,
+    "uuid": "731824c1-432a-42c1-acf7-467703ff0261",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\right\\idle.plist": {
+    "time": 1684473453876.0627,
+    "uuid": "6103501e-2905-4ebb-8f4e-c55f19178f22",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\right\\idle.png": {
+    "time": 1684473453878.0977,
+    "uuid": "46786279-203f-4398-ac84-2c129bb7c712",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\top\\idle.plist": {
+    "time": 1684473453880.0984,
+    "uuid": "f7a996dd-26f7-4ad9-8a6e-2a7b5a4c4f0c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\top\\idle.png": {
+    "time": 1684473453880.0984,
+    "uuid": "b676cd00-a168-4810-a7d1-e4cf46dbe32f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\five\\five.plist": {
+    "time": 1684473453885.063,
+    "uuid": "53707ab8-7929-4c73-87e4-9328a7b247e5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\five\\five.png": {
+    "time": 1684473453886.0657,
+    "uuid": "54b36b6e-f97b-4dae-9898-6ce06342ed33",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\four\\four.plist": {
+    "time": 1684473453888.0664,
+    "uuid": "298190fd-f483-4c1e-9376-829921331aa0",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\four\\four.png": {
+    "time": 1684473453889.0654,
+    "uuid": "5783895e-2802-4abc-a97e-58745a73358f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\one\\one.plist": {
+    "time": 1684473453891.1003,
+    "uuid": "0e197964-f8f7-4304-bbd3-d49463b259bb",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\one\\one.png": {
+    "time": 1684473453892.0635,
+    "uuid": "32fe68cc-665b-4545-99d3-b79214a83021",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\three\\three.plist": {
+    "time": 1684473453894.0984,
+    "uuid": "3a25a98f-0898-4d18-b3c4-a2992269c742",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\three\\three.png": {
+    "time": 1684473453895.0977,
+    "uuid": "653cfe47-3199-4f5f-837c-00a55bb0f0f1",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\two\\two.plist": {
+    "time": 1684473453896.063,
+    "uuid": "97a8fbbc-1ca6-468d-a9db-c0afdfa48096",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\two\\two.png": {
+    "time": 1684473453897.0645,
+    "uuid": "5ddb2fd4-5a2f-4b22-85ab-aeeb0642e1ae",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\zero\\zero.plist": {
+    "time": 1684473453900.1006,
+    "uuid": "6083b165-d32f-43ff-aae1-525860bae16d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\zero\\zero.png": {
+    "time": 1684473453901.0635,
+    "uuid": "9fad8ffd-b5e6-408f-93a8-e23887ed61ca",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\one\\one.plist": {
+    "time": 1684473453904.0981,
+    "uuid": "82ba1c19-c874-401b-84d8-f1fb6a7e25b6",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\one\\one.png": {
+    "time": 1684473453905.065,
+    "uuid": "7c80c3bc-9cb9-4bd3-90bf-6cd0473196d7",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\two\\two.plist": {
+    "time": 1684473453907.1006,
+    "uuid": "c7ffdd4d-48d6-4f30-86a3-609e17aa3689",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\two\\two.png": {
+    "time": 1684473453908.0647,
+    "uuid": "616391f1-2ede-4d23-a2fa-d70c5fefa322",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\zero\\zero.plist": {
+    "time": 1684473453910.0994,
+    "uuid": "d8c93eb0-a32f-43d0-b4c9-f5ca3f8e1d7b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\zero\\zero.png": {
+    "time": 1684473453911.0623,
+    "uuid": "e8549e00-cd66-4099-97be-b6af28cc8006",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\four\\four.plist": {
+    "time": 1684473453915.0632,
+    "uuid": "7b0ca2a0-1fd0-403e-8117-6234698a877f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\four\\four.png": {
+    "time": 1684473453917.0632,
+    "uuid": "5f1a8cf6-62f9-4f60-9fd6-20d6cb4343c5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\one\\one.plist": {
+    "time": 1684473453920.0676,
+    "uuid": "3260810e-eb95-4757-b469-b9021dc9a3c6",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\one\\one.png": {
+    "time": 1684473453922.0688,
+    "uuid": "07d752fe-fed5-413d-90f7-865e76294e62",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\three\\three.plist": {
+    "time": 1684473453924.0657,
+    "uuid": "d3dc4196-bb83-43e2-b7dc-839e5f629a0e",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\three\\three.png": {
+    "time": 1684473453925.0674,
+    "uuid": "0b248f91-56c9-4115-8282-9927f3dd07a4",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\two\\two.plist": {
+    "time": 1684473453928.0625,
+    "uuid": "d1c1e4e4-8f21-4c59-b333-b354a20e87c1",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\two\\two.png": {
+    "time": 1684473453929.064,
+    "uuid": "c2eea861-11c7-40ba-87c1-eaa1d5e6427c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\zero\\zero.plist": {
+    "time": 1684473453933.0642,
+    "uuid": "e80f5554-1dc8-4111-9d3d-fd9ee2891a15",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\zero\\zero.png": {
+    "time": 1684473453934.0625,
+    "uuid": "cc0a5460-6056-4b15-b095-f6694c327b9d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\one\\one.plist": {
+    "time": 1684473453938.0623,
+    "uuid": "ae4387ff-6e76-4feb-8085-5e71ec54f92f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\one\\one.png": {
+    "time": 1684473453939.0647,
+    "uuid": "40d9acdc-cdc6-467e-9892-3c10d32db80f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\three\\three.plist": {
+    "time": 1684473453941.065,
+    "uuid": "90a66264-e6e4-437b-b4ac-4df509220270",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\three\\three.png": {
+    "time": 1684473453944.0637,
+    "uuid": "6eb39132-5388-4f03-a649-0cf23bbc6b95",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\two\\two.plist": {
+    "time": 1684473453946.0647,
+    "uuid": "9077f514-31f3-4fac-9bad-e73091049b8b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\two\\two.png": {
+    "time": 1684473453947.0671,
+    "uuid": "04b97190-e458-45e7-b088-caf2cc7e41d2",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\zero\\zero.plist": {
+    "time": 1684473453951.066,
+    "uuid": "e93fd8b9-51f6-4e0f-8f0d-3f563a0762a2",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\zero\\zero.png": {
+    "time": 1684473453953.0632,
+    "uuid": "89bdadaa-c90d-43bb-a52a-12e2052a16bf",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\bottom\\attack.plist": {
+    "time": 1684473453961.0647,
+    "uuid": "429757a5-5a24-4609-b452-fe06c64bfcd0",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\bottom\\attack.png": {
+    "time": 1684473453962.0654,
+    "uuid": "ab0649bf-5ac0-4641-9bdb-7e5dda923fb8",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\left\\attack.plist": {
+    "time": 1684473453964.067,
+    "uuid": "86460bec-5a19-4b34-9d81-dcbf1d527cf0",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\left\\attack.png": {
+    "time": 1684473453967.1003,
+    "uuid": "abb40c9d-1c6f-4f5b-8f32-e6048bc21281",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\right\\attack.plist": {
+    "time": 1684473453969.1003,
+    "uuid": "d2099569-1814-481f-81d0-95e41089f1a6",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\right\\attack.png": {
+    "time": 1684473453970.0632,
+    "uuid": "3fa2153f-a602-41e1-b310-7139e83eb2b4",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\top\\attack.plist": {
+    "time": 1684473453972.098,
+    "uuid": "8e739a04-dde6-4147-832a-e41fd67b4faa",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\top\\attack.png": {
+    "time": 1684473453973.0627,
+    "uuid": "d4b07579-b865-4f6b-abf3-d6b5f2c65a0d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\bottom\\death.plist": {
+    "time": 1684473453977.0686,
+    "uuid": "eee40743-c8bc-4041-9856-0b875f7383a2",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\bottom\\death.png": {
+    "time": 1684473453978.0664,
+    "uuid": "2318785d-7256-455d-8e98-c1e12c32a010",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\left\\death.plist": {
+    "time": 1684473453981.064,
+    "uuid": "993ad0d4-5eb0-4029-b507-e5bee7eb6554",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\left\\death.png": {
+    "time": 1684473453983.0627,
+    "uuid": "237de2ed-b615-482c-a1bb-4e9dbf3dbd3f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\right\\death.plist": {
+    "time": 1684473453985.0635,
+    "uuid": "8c76321e-353d-4854-8696-1f4bf4c731b4",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\right\\death.png": {
+    "time": 1684473453986.063,
+    "uuid": "2002c059-8f01-42e3-b5b8-3fcb1288473a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\top\\death.plist": {
+    "time": 1684473453988.063,
+    "uuid": "640a418f-2782-4b1a-8604-294223377771",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\top\\death.png": {
+    "time": 1684473453989.0623,
+    "uuid": "1647bfd1-0923-48da-8219-4749cedfbaaa",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\bottom\\idle.plist": {
+    "time": 1684473453992.063,
+    "uuid": "e99c4e0e-802b-4620-8ba3-e7b04974e33e",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\bottom\\idle.png": {
+    "time": 1684473453993.0637,
+    "uuid": "d1606578-8a03-4522-984f-63bc89378f76",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\left\\idle.plist": {
+    "time": 1684473453995.0662,
+    "uuid": "ecaa3cbf-5441-4985-b50f-467c99bad203",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\left\\idle.png": {
+    "time": 1684473453997.0654,
+    "uuid": "3c87b97e-538c-4609-82a3-a370e1c11ee0",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\right\\idle.plist": {
+    "time": 1684473454000.0688,
+    "uuid": "a631f8e2-a67c-4013-a0c4-e9aca4ba6f6a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\right\\idle.png": {
+    "time": 1684473454001.0654,
+    "uuid": "0df8ca16-80dc-4bd2-8e52-21c87073fd28",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\top\\idle.plist": {
+    "time": 1684473454003.064,
+    "uuid": "9ed6355f-b42a-45bf-89b3-0a254ede5008",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\top\\idle.png": {
+    "time": 1684473454004.0637,
+    "uuid": "294ce9bb-3c88-4d1d-ac73-07f17133d5a0",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Enums.meta": {
+    "time": 1684474874158.6287
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level.meta": {
+    "time": 1684474874159.6265
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources.meta": {
+    "time": 1685723637813.9622
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture.meta": {
+    "time": 1684473453546.0608
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst.meta": {
+    "time": 1684473453549.064
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ctrl.meta": {
+    "time": 1684473453562.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door.meta": {
+    "time": 1684473453569.0654
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Enums\\index.ts.meta": {
+    "time": 1684474874179.6265
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\index.ts.meta": {
+    "time": 1684474874183.625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton.meta": {
+    "time": 1684473453584.0662
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player.meta": {
+    "time": 1684473453622.0657
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke.meta": {
+    "time": 1684473453865.0645
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes.meta": {
+    "time": 1684473453882.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level1.ts.meta": {
+    "time": 1684474874199.6252
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\tile.meta": {
+    "time": 1684473453954.0625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton.meta": {
+    "time": 1684473453958.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\attack.meta": {
+    "time": 1684473453551.0623
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\death.meta": {
+    "time": 1684473453555.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\idle.meta": {
+    "time": 1684473453559.0652
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\death.meta": {
+    "time": 1684473453570.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\idle.meta": {
+    "time": 1684473453574.065
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death.meta": {
+    "time": 1684473453585.0645
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle.meta": {
+    "time": 1684473453605.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath.meta": {
+    "time": 1684473453623.0657
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack.meta": {
+    "time": 1684473453649.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback.meta": {
+    "time": 1684473453668.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront.meta": {
+    "time": 1684473453727.0662
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft.meta": {
+    "time": 1684473453746.0623
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright.meta": {
+    "time": 1684473453764.0652
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft.meta": {
+    "time": 1684473453787.0662
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright.meta": {
+    "time": 1684473453801.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death.meta": {
+    "time": 1684473453813.0608
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle.meta": {
+    "time": 1684473453826.0603
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft.meta": {
+    "time": 1684473453840.0623
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright.meta": {
+    "time": 1684473453853.065
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\death.meta": {
+    "time": 1684473453866.0627
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle.meta": {
+    "time": 1684473453869.0625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour.meta": {
+    "time": 1684473453883.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone.meta": {
+    "time": 1684473453902.0984
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree.meta": {
+    "time": 1684473453912.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo.meta": {
+    "time": 1684473453936.0674
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack.meta": {
+    "time": 1684473453959.0686
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death.meta": {
+    "time": 1684473453974.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle.meta": {
+    "time": 1684473453990.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ctrl\\ctrl.png.meta": {
+    "time": 1684473453568.064
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\tile\\tile.png.meta": {
+    "time": 1684473453957.0667
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\attack\\idle.plist.meta": {
+    "time": 1684473453553.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\attack\\idle.png.meta": {
+    "time": 1684473453555.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\death\\idle.png.meta": {
+    "time": 1684473453558.0662
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ctrl\\ctrl.plist.meta": {
+    "time": 1684473453566.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\idle\\idle.plist.meta": {
+    "time": 1684473453560.066
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\death\\idle.plist.meta": {
+    "time": 1684473453557.0645
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\idle\\left.meta": {
+    "time": 1684473453575.0654
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\idle\\top.meta": {
+    "time": 1684473453578.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\bottom.meta": {
+    "time": 1684473453586.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\burst\\idle\\idle.png.meta": {
+    "time": 1684473453562.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\left.meta": {
+    "time": 1684473453590.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\right.meta": {
+    "time": 1684473453593.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\top.meta": {
+    "time": 1684473453599.0664
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\bottom.meta": {
+    "time": 1684473453606.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\left.meta": {
+    "time": 1684473453609.0627
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\right.meta": {
+    "time": 1684473453614.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\top.meta": {
+    "time": 1684473453619.0654
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\bottom.meta": {
+    "time": 1684473453624.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\left.meta": {
+    "time": 1684473453629.0627
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\right.meta": {
+    "time": 1684473453640.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\top.meta": {
+    "time": 1684473453644.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\bottom.meta": {
+    "time": 1684473453650.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\left.meta": {
+    "time": 1684473453654.062
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\right.meta": {
+    "time": 1684473453657.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\top.meta": {
+    "time": 1684473453663.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\bottom.meta": {
+    "time": 1684473453670.0652
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\left.meta": {
+    "time": 1684473453674.0645
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\right.meta": {
+    "time": 1684473453718.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\top.meta": {
+    "time": 1684473453722.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\bottom.meta": {
+    "time": 1684473453728.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\left.meta": {
+    "time": 1684473453733.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\right.meta": {
+    "time": 1684473453737.0627
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\top.meta": {
+    "time": 1684473453742.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\bottom.meta": {
+    "time": 1684473453747.0625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\left.meta": {
+    "time": 1684473453752.064
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\right.meta": {
+    "time": 1684473453756.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\top.meta": {
+    "time": 1684473453760.066
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\bottom.meta": {
+    "time": 1684473453765.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\left.meta": {
+    "time": 1684473453769.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\right.meta": {
+    "time": 1684473453779.068
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\top.meta": {
+    "time": 1684473453784.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\bottom.meta": {
+    "time": 1684473453789.0623
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\left.meta": {
+    "time": 1684473453792.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\right.meta": {
+    "time": 1684473453795.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\top.meta": {
+    "time": 1684473453797.0625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\bottom.meta": {
+    "time": 1684473453801.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\left.meta": {
+    "time": 1684473453804.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\right.meta": {
+    "time": 1684473453807.067
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\death\\death.png.meta": {
+    "time": 1684473453573.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\death\\death.plist.meta": {
+    "time": 1684473453572.0625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\top.meta": {
+    "time": 1684473453810.0654
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\bottom.meta": {
+    "time": 1684473453814.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\left.meta": {
+    "time": 1684473453817.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\right.meta": {
+    "time": 1684473453820.0618
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\top.meta": {
+    "time": 1684473453824.065
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\bottom.meta": {
+    "time": 1684473453827.0652
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\left.meta": {
+    "time": 1684473453830.0654
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\right.meta": {
+    "time": 1684473453833.0654
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\top.meta": {
+    "time": 1684473453837.064
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\bottom.meta": {
+    "time": 1684473453841.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\left.meta": {
+    "time": 1684473453843.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\right.meta": {
+    "time": 1684473453846.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\top.meta": {
+    "time": 1684473453849.068
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\bottom.meta": {
+    "time": 1684473453854.0664
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\left.meta": {
+    "time": 1684473453856.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\right.meta": {
+    "time": 1684473453859.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\top.meta": {
+    "time": 1684473453862.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\bottom.meta": {
+    "time": 1684473453870.0686
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\left.meta": {
+    "time": 1684473453873.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\right.meta": {
+    "time": 1684473453876.0627
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\top.meta": {
+    "time": 1684473453879.098
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\five.meta": {
+    "time": 1684473453884.1003
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\four.meta": {
+    "time": 1684473453887.0671
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\one.meta": {
+    "time": 1684473453890.0713
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\three.meta": {
+    "time": 1684473453893.1
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\two.meta": {
+    "time": 1684473453896.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\zero.meta": {
+    "time": 1684473453899.0674
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\one.meta": {
+    "time": 1684473453903.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\two.meta": {
+    "time": 1684473453906.0625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\zero.meta": {
+    "time": 1684473453909.0813
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\four.meta": {
+    "time": 1684473453913.067
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\one.meta": {
+    "time": 1684473453919.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\three.meta": {
+    "time": 1684473453923.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\two.meta": {
+    "time": 1684473453927.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\zero.meta": {
+    "time": 1684473453931.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\one.meta": {
+    "time": 1684473453937.067
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\three.meta": {
+    "time": 1684473453941.065
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\two.meta": {
+    "time": 1684473453945.0684
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\zero.meta": {
+    "time": 1684473453950.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\bottom.meta": {
+    "time": 1684473453960.0662
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\left.meta": {
+    "time": 1684473453963.098
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\right.meta": {
+    "time": 1684473453968.0623
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\top.meta": {
+    "time": 1684473453971.0615
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\bottom.meta": {
+    "time": 1684473453975.0674
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\left.meta": {
+    "time": 1684473453979.0713
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\right.meta": {
+    "time": 1684473453984.0645
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\top.meta": {
+    "time": 1684473453987.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\bottom.meta": {
+    "time": 1684473453991.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\left.meta": {
+    "time": 1684473453994.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\right.meta": {
+    "time": 1684473453998.0654
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\top.meta": {
+    "time": 1684473454002.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\idle\\left\\idle.png.meta": {
+    "time": 1684473453577.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\idle\\top\\idle.plist.meta": {
+    "time": 1684473453580.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\idle\\top\\idle.png.meta": {
+    "time": 1684473453584.0662
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\door\\idle\\left\\idle.plist.meta": {
+    "time": 1684473453576.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\bottom\\death.png.meta": {
+    "time": 1684473453589.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\tile\\tile.plist.meta": {
+    "time": 1684473453956.0652
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\left\\death.png.meta": {
+    "time": 1684473453593.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\right\\death.png.meta": {
+    "time": 1684473453596.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\top\\death.png.meta": {
+    "time": 1684473453605.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\bottom\\death.plist.meta": {
+    "time": 1684473453588.0627
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\left\\death.plist.meta": {
+    "time": 1684473453591.0667
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\right\\death.plist.meta": {
+    "time": 1684473453595.0625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\bottom\\idle.plist.meta": {
+    "time": 1684473453608.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\left\\idle.png.meta": {
+    "time": 1684473453613.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\bottom\\idle.png.meta": {
+    "time": 1684473453609.0627
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\left\\idle.plist.meta": {
+    "time": 1684473453611.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\death\\top\\death.plist.meta": {
+    "time": 1684473453603.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\right\\idle.png.meta": {
+    "time": 1684473453618.064
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\right\\idle.plist.meta": {
+    "time": 1684473453617.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\top\\idle.png.meta": {
+    "time": 1684473453622.0657
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\bottom\\death.png.meta": {
+    "time": 1684473453628.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\ironskeleton\\idle\\top\\idle.plist.meta": {
+    "time": 1684473453621.0618
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\left\\death.png.meta": {
+    "time": 1684473453639.0806
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\right\\death.png.meta": {
+    "time": 1684473453643.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\bottom\\death.plist.meta": {
+    "time": 1684473453626.0645
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\top\\death.png.meta": {
+    "time": 1684473453648.062
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\left\\death.plist.meta": {
+    "time": 1684473453631.0664
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\bottom\\attack.png.meta": {
+    "time": 1684473453653.0627
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\top\\death.plist.meta": {
+    "time": 1684473453646.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\left\\attack.png.meta": {
+    "time": 1684473453657.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\bottom\\attack.plist.meta": {
+    "time": 1684473453652.0615
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\airdeath\\right\\death.plist.meta": {
+    "time": 1684473453642.0625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\right\\attack.png.meta": {
+    "time": 1684473453662.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\top\\attack.png.meta": {
+    "time": 1684473453667.066
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\left\\attack.plist.meta": {
+    "time": 1684473453655.072
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\bottom\\blockback.png.meta": {
+    "time": 1684473453673.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\top\\attack.plist.meta": {
+    "time": 1684473453665.0645
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\bottom\\blockback.plist.meta": {
+    "time": 1684473453672.0625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\left\\blockback.png.meta": {
+    "time": 1684473453717.065
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\left\\blockback.plist.meta": {
+    "time": 1684473453692.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\right\\blockback.png.meta": {
+    "time": 1684473453721.0627
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\attack\\right\\attack.plist.meta": {
+    "time": 1684473453659.062
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\right\\blockback.plist.meta": {
+    "time": 1684473453719.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\top\\blockback.png.meta": {
+    "time": 1684473453726.0652
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockback\\top\\blockback.plist.meta": {
+    "time": 1684473453723.0623
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\bottom\\blockfront.png.meta": {
+    "time": 1684473453731.065
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\left\\blockfront.png.meta": {
+    "time": 1684473453736.0618
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\bottom\\blockfront.plist.meta": {
+    "time": 1684473453730.0623
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\left\\blockfront.plist.meta": {
+    "time": 1684473453735.0618
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\right\\blockfront.png.meta": {
+    "time": 1684473453741.0623
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\right\\blockfront.plist.meta": {
+    "time": 1684473453739.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\top\\blockfront.png.meta": {
+    "time": 1684473453745.0657
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\bottom\\blockleft.png.meta": {
+    "time": 1684473453751.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockfront\\top\\blockfront.plist.meta": {
+    "time": 1684473453744.068
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\bottom\\blockleft.plist.meta": {
+    "time": 1684473453750.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\right\\blockleft.png.meta": {
+    "time": 1684473453759.076
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\left\\blockleft.plist.meta": {
+    "time": 1684473453754.068
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\left\\blockleft.png.meta": {
+    "time": 1684473453755.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\right\\blockleft.plist.meta": {
+    "time": 1684473453758.0645
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\top\\blockleft.png.meta": {
+    "time": 1684473453764.0652
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\bottom\\blockright.png.meta": {
+    "time": 1684473453769.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\left\\blockright.png.meta": {
+    "time": 1684473453778.0984
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\bottom\\blockright.plist.meta": {
+    "time": 1684473453767.0613
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\left\\blockright.plist.meta": {
+    "time": 1684473453771.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\right\\blockright.png.meta": {
+    "time": 1684473453782.0662
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockleft\\top\\blockleft.plist.meta": {
+    "time": 1684473453762.0618
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\top\\blockright.png.meta": {
+    "time": 1684473453787.0662
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\right\\blockright.plist.meta": {
+    "time": 1684473453780.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockright\\top\\blockright.plist.meta": {
+    "time": 1684473453786.0662
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\bottom\\blockturnleft.png.meta": {
+    "time": 1684473453791.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\left\\blockturnleft.png.meta": {
+    "time": 1684473453794.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\left\\blockturnleft.plist.meta": {
+    "time": 1684473453793.064
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\right\\blockturnleft.plist.meta": {
+    "time": 1684473453796.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\bottom\\blockturnleft.plist.meta": {
+    "time": 1684473453791.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\top\\blockturnleft.plist.meta": {
+    "time": 1684473453799.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\right\\blockturnleft.png.meta": {
+    "time": 1684473453797.0625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\bottom\\blockturnright.png.meta": {
+    "time": 1684473453804.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\left\\blockturnright.png.meta": {
+    "time": 1684473453807.067
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\bottom\\blockturnright.plist.meta": {
+    "time": 1684473453803.0625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnleft\\top\\blockturnleft.png.meta": {
+    "time": 1684473453800.062
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\left\\blockturnright.plist.meta": {
+    "time": 1684473453806.0627
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\top\\blockturnright.png.meta": {
+    "time": 1684473453812.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\right\\blockturnright.png.meta": {
+    "time": 1684473453810.0654
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\right\\blockturnright.plist.meta": {
+    "time": 1684473453809.07
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\blockturnright\\top\\blockturnright.plist.meta": {
+    "time": 1684473453812.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\left\\death.png.meta": {
+    "time": 1684473453819.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\bottom\\death.png.meta": {
+    "time": 1684473453816.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\right\\death.png.meta": {
+    "time": 1684473453823.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\top\\death.png.meta": {
+    "time": 1684473453826.0603
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\bottom\\death.plist.meta": {
+    "time": 1684473453815.064
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\left\\death.plist.meta": {
+    "time": 1684473453818.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\bottom\\idle.png.meta": {
+    "time": 1684473453829.0608
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\bottom\\idle.plist.meta": {
+    "time": 1684473453828.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\top\\death.plist.meta": {
+    "time": 1684473453825.0625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\death\\right\\death.plist.meta": {
+    "time": 1684473453822.0613
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\left\\idle.png.meta": {
+    "time": 1684473453833.0654
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\left\\idle.plist.meta": {
+    "time": 1684473453831.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\top\\idle.png.meta": {
+    "time": 1684473453839.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\right\\idle.plist.meta": {
+    "time": 1684473453835.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\top\\idle.plist.meta": {
+    "time": 1684473453838.0676
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\bottom\\turnleft.png.meta": {
+    "time": 1684473453843.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\bottom\\turnleft.plist.meta": {
+    "time": 1684473453842.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\left\\turnleft.png.meta": {
+    "time": 1684473453845.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\idle\\right\\idle.png.meta": {
+    "time": 1684473453836.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\left\\turnleft.plist.meta": {
+    "time": 1684473453844.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\top\\turnleft.plist.meta": {
+    "time": 1684473453851.0608
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\right\\turnleft.plist.meta": {
+    "time": 1684473453847.064
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\bottom\\turnright.plist.meta": {
+    "time": 1684473453855.0657
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\right\\turnleft.png.meta": {
+    "time": 1684473453849.068
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnleft\\top\\turnleft.png.meta": {
+    "time": 1684473453852.0623
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\bottom\\turnright.png.meta": {
+    "time": 1684473453856.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\left\\turnright.png.meta": {
+    "time": 1684473453859.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\left\\turnright.plist.meta": {
+    "time": 1684473453858.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\right\\turnright.png.meta": {
+    "time": 1684473453861.0625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\right\\turnright.plist.meta": {
+    "time": 1684473453860.0623
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\top\\turnright.png.meta": {
+    "time": 1684473453864.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\player\\turnright\\top\\turnright.plist.meta": {
+    "time": 1684473453863.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\bottom\\idle.png.meta": {
+    "time": 1684473453873.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\left\\idle.png.meta": {
+    "time": 1684473453875.0625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\right\\idle.png.meta": {
+    "time": 1684473453878.0977
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\top\\idle.png.meta": {
+    "time": 1684473453881.0974
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\left\\idle.plist.meta": {
+    "time": 1684473453874.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\bottom\\idle.plist.meta": {
+    "time": 1684473453872.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\top\\idle.plist.meta": {
+    "time": 1684473453880.0984
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\smoke\\idle\\right\\idle.plist.meta": {
+    "time": 1684473453877.0623
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\five\\five.png.meta": {
+    "time": 1684473453887.0671
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\four\\four.plist.meta": {
+    "time": 1684473453888.0664
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\five\\five.plist.meta": {
+    "time": 1684473453886.0657
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\four\\four.png.meta": {
+    "time": 1684473453889.0654
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\one\\one.plist.meta": {
+    "time": 1684473453891.1003
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\one\\one.png.meta": {
+    "time": 1684473453892.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\three\\three.png.meta": {
+    "time": 1684473453895.0977
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\three\\three.plist.meta": {
+    "time": 1684473453894.0984
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\two\\two.plist.meta": {
+    "time": 1684473453897.0645
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\two\\two.png.meta": {
+    "time": 1684473453898.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\zero\\zero.plist.meta": {
+    "time": 1684473453901.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesfour\\zero\\zero.png.meta": {
+    "time": 1684473453902.0984
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\one\\one.png.meta": {
+    "time": 1684473453905.065
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\one\\one.plist.meta": {
+    "time": 1684473453904.0981
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\two\\two.png.meta": {
+    "time": 1684473453909.0813
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\zero\\zero.plist.meta": {
+    "time": 1684473453910.0994
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\two\\two.plist.meta": {
+    "time": 1684473453908.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\four\\four.png.meta": {
+    "time": 1684473453918.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesone\\zero\\zero.png.meta": {
+    "time": 1684473453912.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\one\\one.plist.meta": {
+    "time": 1684473453921.0696
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\one\\one.png.meta": {
+    "time": 1684473453922.0688
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\three\\three.plist.meta": {
+    "time": 1684473453924.0657
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\four\\four.plist.meta": {
+    "time": 1684473453916.0627
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\two\\two.plist.meta": {
+    "time": 1684473453929.064
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\two\\two.png.meta": {
+    "time": 1684473453930.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\zero\\zero.plist.meta": {
+    "time": 1684473453934.0625
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\zero\\zero.png.meta": {
+    "time": 1684473453935.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\one\\one.plist.meta": {
+    "time": 1684473453938.0623
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikesthree\\three\\three.png.meta": {
+    "time": 1684473453926.0703
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\one\\one.png.meta": {
+    "time": 1684473453940.0623
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\three\\three.png.meta": {
+    "time": 1684473453944.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\two\\two.plist.meta": {
+    "time": 1684473453946.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\zero\\zero.plist.meta": {
+    "time": 1684473453952.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\three\\three.plist.meta": {
+    "time": 1684473453943.0671
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\zero\\zero.png.meta": {
+    "time": 1684473453953.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\spikes\\spikestwo\\two\\two.png.meta": {
+    "time": 1684473453949.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\bottom\\attack.png.meta": {
+    "time": 1684473453963.098
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\left\\attack.png.meta": {
+    "time": 1684473453967.1003
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\right\\attack.plist.meta": {
+    "time": 1684473453969.1003
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\right\\attack.png.meta": {
+    "time": 1684473453970.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\bottom\\attack.plist.meta": {
+    "time": 1684473453961.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\top\\attack.png.meta": {
+    "time": 1684473453974.0642
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\top\\attack.plist.meta": {
+    "time": 1684473453973.0627
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\attack\\left\\attack.plist.meta": {
+    "time": 1684473453966.0647
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\bottom\\death.png.meta": {
+    "time": 1684473453979.0713
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\left\\death.png.meta": {
+    "time": 1684473453984.0645
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\right\\death.png.meta": {
+    "time": 1684473453987.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\top\\death.png.meta": {
+    "time": 1684473453990.0632
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\bottom\\death.plist.meta": {
+    "time": 1684473453977.0686
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\bottom\\idle.png.meta": {
+    "time": 1684473453994.0635
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\right\\death.plist.meta": {
+    "time": 1684473453986.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\bottom\\idle.plist.meta": {
+    "time": 1684473453993.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\left\\death.plist.meta": {
+    "time": 1684473453982.0627
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\death\\top\\death.plist.meta": {
+    "time": 1684473453989.0623
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\right\\idle.png.meta": {
+    "time": 1684473454001.0654
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\left\\idle.png.meta": {
+    "time": 1684473453997.0654
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\left\\idle.plist.meta": {
+    "time": 1684473453996.0698
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\right\\idle.plist.meta": {
+    "time": 1684473454000.0688
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\top\\idle.png.meta": {
+    "time": 1684473454005.063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\woodenskeleton\\idle\\top\\idle.plist.meta": {
+    "time": 1684473454004.0637
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scene.meta": {
+    "time": 1684476636444.8408
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scene": {
+    "time": 1688014623493.5542,
+    "uuid": "9d712b4f-0f86-4848-9b13-8cb987697f82",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scene\\scene.scene.meta": {
+    "time": 1684476649347.83
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scene\\scene.scene": {
+    "time": 1688033851813.282,
+    "uuid": "85ffdebb-36cc-42ae-ac43-c37eda52ad42",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts.meta": {
+    "time": 1685723150219.2083
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts": {
+    "time": 1688016403129.035,
+    "uuid": "daf14e7d-14fa-4dc3-9e66-56ee5f260408",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Scene.meta": {
+    "time": 1684477227413.765
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Scene": {
+    "time": 1684477280390.7617,
+    "uuid": "510ccba7-66fa-42b6-84da-9ab5d8ac3852",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Scene\\BattleManager.ts.meta": {
+    "time": 1684477280397.5105
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Scene\\BattleManager.ts": {
+    "time": 1688039340721.8433,
+    "uuid": "91725587-86a4-42e5-b77d-a8050276efb3",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Tile.meta": {
+    "time": 1684477821417.5996
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Tile": {
+    "time": 1684483155492.6843,
+    "uuid": "d5eb67c6-7174-4479-a775-170b9c34a205",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Tile\\TlieMapManager.ts.meta": {
+    "time": 1684482202422.9778
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Tile\\TlieMapManager.ts": {
+    "time": 1686126057689.592,
+    "uuid": "e207cd8e-e26c-4de0-9148-20604352ae1c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Utiils.meta": {
+    "time": 1684483155651.4175
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Tile\\TileManager.ts.meta": {
+    "time": 1684483155662.1147
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Utiils\\index.ts.meta": {
+    "time": 1684483155683.6665
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Utiils": {
+    "time": 1685726612683.0547,
+    "uuid": "f9f8c3e5-109d-47a9-acc9-761676b014d7",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Tile\\TileManager.ts": {
+    "time": 1687962092314.8022,
+    "uuid": "1d150078-b6a0-48b7-9fe5-d07fe5a9a29b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Utiils\\index.ts": {
+    "time": 1685623763191.339,
+    "uuid": "0049180a-c22a-4eb6-b3ff-bc1f63ac8e6a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\RunTime.meta": {
+    "time": 1684504825635.8926
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\RunTime": {
+    "time": 1688017571001.6643,
+    "uuid": "ef210ca4-fb94-4b6e-bc84-d220dd03d888",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\RunTime\\DataManager.ts.meta": {
+    "time": 1684504839033.0303
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\RunTime\\DataManager.ts": {
+    "time": 1687955199969.8088,
+    "uuid": "8a79ef6c-4e55-423a-a2c0-6fee9abf19c1",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base.meta": {
+    "time": 1684727159226.975
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base\\Singleton.ts.meta": {
+    "time": 1684727159230.7258
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base": {
+    "time": 1685880908618.0198,
+    "uuid": "345b32f0-81a2-4e4a-aba1-e3d7ca599ab2",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base\\Singleton.ts": {
+    "time": 1684743173351.235,
+    "uuid": "fcda2864-4f4e-4e8e-9a5c-8f75f2a17fb1",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\RunTime\\ResourcesManager.ts.meta": {
+    "time": 1684728640806.4622
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\RunTime\\ResourcesManager.ts": {
+    "time": 1685729918902.7266,
+    "uuid": "d10b320c-b67a-4699-b328-a8bff34d597d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\RunTime\\EventManager.ts.meta": {
+    "time": 1684742207367.558
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\RunTime\\EventManager.ts": {
+    "time": 1684742150374.4294,
+    "uuid": "d44109df-ca0c-4f0e-a418-cd6121028440",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\UI.meta": {
+    "time": 1684742892946.9443
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\UI\\UIController.ts.meta": {
+    "time": 1684742892950.588
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\UI": {
+    "time": 1688014692685.4075,
+    "uuid": "a86cb179-bf63-4b05-a8bf-a784ff5cfb86",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\UI\\UIController.ts": {
+    "time": 1688021816458.5818,
+    "uuid": "38165125-ddec-44d8-b28e-968f0cb4f994",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level2.ts.meta": {
+    "time": 1684743523378.4346
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level2.ts": {
+    "time": 1686838994336.7063,
+    "uuid": "9e846d1a-9d0d-461f-95a4-00e5952067cb",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player.meta": {
+    "time": 1684744626211.9253
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player": {
+    "time": 1686024328009.554,
+    "uuid": "4b570e4e-ee73-4180-8f0b-40147cf9745c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\PlayerManager.ts.meta": {
+    "time": 1684744634731.9263
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\PlayerManager.ts": {
+    "time": 1688022891062.5115,
+    "uuid": "f53ad622-8038-48dd-b6e3-ba539a7bf41f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\PlayerStateMachine.ts.meta": {
+    "time": 1684909506561.5479
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\PlayerStateMachine.ts": {
+    "time": 1686028839686.5203,
+    "uuid": "c8c89d88-bed4-4daf-a325-64402ced142b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base\\State.ts.meta": {
+    "time": 1684909521865.203
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base\\State.ts": {
+    "time": 1687940462202.5059,
+    "uuid": "ac66be41-db50-4927-8cdc-f6b9da578a05",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base\\StateMachine.ts.meta": {
+    "time": 1684938599406.7012
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base\\StateMachine.ts": {
+    "time": 1686128997822.742,
+    "uuid": "b91309cc-e605-4004-ba5d-eed659e3dc0b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base\\SubStateMachine.ts.meta": {
+    "time": 1684996995758.7224
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\IdleLeftStateMachine.ts.meta": {
+    "time": 1684996995766.7249
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\TurnLeftStateMachine.ts.meta": {
+    "time": 1684996995774.7312
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base\\SubStateMachine.ts": {
+    "time": 1686067286422.3337,
+    "uuid": "fb733e6e-7cfe-407a-a7dd-15fa12f8267b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\IdleLeftStateMachine.ts": {
+    "time": 1685009356925.693,
+    "uuid": "7506757a-51bf-4943-879a-a3d1b4f9fe05",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\TurnLeftStateMachine.ts": {
+    "time": 1685110722085.481,
+    "uuid": "007d68cf-6543-433c-8fce-ad77102dddfc",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\TurnRightStateMachine.ts.meta": {
+    "time": 1684997957892.0913
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\TurnRightStateMachine.ts": {
+    "time": 1685159544296.7222,
+    "uuid": "da875432-f93d-4e9f-ab01-6a474ec1b6e4",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base\\IdleTurnStateMachie.ts.meta": {
+    "time": 1685009011081.0266
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base\\IdleTurnStateMachie.ts": {
+    "time": 1685604013670.1843,
+    "uuid": "0d78ccda-5541-4192-93df-5f21eda703b1",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base\\EnityManger.ts.meta": {
+    "time": 1685010346972.131
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base\\EnityManger.ts": {
+    "time": 1688032352780.2412,
+    "uuid": "dbdc5b00-d11a-4ad9-ae93-b6eb7ead73c7",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\BlockfrontStateMachine.ts.meta": {
+    "time": 1685176871038.187
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\BlockfrontStateMachine.ts": {
+    "time": 1685176883422.1877,
+    "uuid": "0e63beb4-7c6c-436d-b72f-cf6c94fff743",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\BlockturnleftStateMachine.ts.meta": {
+    "time": 1685177379420.1077
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\BlockturnleftStateMachine.ts": {
+    "time": 1685177389099.567,
+    "uuid": "7611bbdb-cfb3-4c1e-ae57-a0ac6adce4f1",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\BlockturnrightStateMachine.ts.meta": {
+    "time": 1685180015977.2793
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\BlockturnrightStateMachine.ts": {
+    "time": 1685179094926.4521,
+    "uuid": "471ba0cd-d349-47c2-81df-a93d6a70f7df",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\BlockblackStateMachine.ts.meta": {
+    "time": 1685519450272.651
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\BlockblackStateMachine.ts": {
+    "time": 1685519462432.6555,
+    "uuid": "89ef1c9c-07f7-4e36-880d-a2b6394ce71c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\WoodenSkeleton.meta": {
+    "time": 1685522098149.4707
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\WoodenSkeleton\\WoodenSkeletonManager.ts.meta": {
+    "time": 1685522098157.4702
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\WoodenSkeleton\\WoodenSkeletonSubMachine.ts.meta": {
+    "time": 1685522098165.4807
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\WoodenSkeleton": {
+    "time": 1685624426720.822,
+    "uuid": "94a0b151-09a4-40e2-9707-2f757fc65f87",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\WoodenSkeleton\\WoodenSkeletonManager.ts": {
+    "time": 1686887263458.7705,
+    "uuid": "0cba5188-3c24-4691-a6b6-dad0d3e171b4",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\WoodenSkeleton\\WoodenSkeletonSubMachine.ts": {
+    "time": 1685624479065.7183,
+    "uuid": "da52dfc0-5a89-4cc1-a9dc-a8dd685515bb",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\WoodenSkeleton\\IdleSubStateMachines.ts.meta": {
+    "time": 1685522977199.8638
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\WoodenSkeleton\\IdleSubStateMachines.ts": {
+    "time": 1685523733761.121,
+    "uuid": "959c5cb5-1b27-4c79-a455-c556534a6742",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\WoodenSkeleton\\AttackSubStateMachines.ts.meta": {
+    "time": 1685609387381.2197
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\WoodenSkeleton\\AttackSubStateMachines.ts": {
+    "time": 1685610665646.1606,
+    "uuid": "232170be-2120-49d5-b015-194e333e99bc",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\AttackDeathSubStateMachine.ts.meta": {
+    "time": 1685619111498.9255
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\AttackDeathSubStateMachine.ts": {
+    "time": 1687940109737.274,
+    "uuid": "f79f14c0-b62b-43b8-933a-48986994a118",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\AttackSubStateMachine.ts.meta": {
+    "time": 1685622239049.2031
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\AttackSubStateMachine.ts": {
+    "time": 1687940177055.9998,
+    "uuid": "b8d601f6-619e-482f-9263-702f646dc90d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\WoodenSkeleton\\DeathSubStateMachines.ts.meta": {
+    "time": 1685624426760.8193
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\WoodenSkeleton\\DeathSubStateMachines.ts": {
+    "time": 1685624371805.0469,
+    "uuid": "7deff8d9-1038-450f-8f7c-64e163487494",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Door.meta": {
+    "time": 1685727004874.5078
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Door\\DoorManager.ts.meta": {
+    "time": 1685727004882.5063
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Door\\DoorSubMachine.ts.meta": {
+    "time": 1685727004890.5098
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Door": {
+    "time": 1685727227612.3987,
+    "uuid": "23e5be0f-4d04-479d-aa11-15b99eec5b6b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Door\\DoorManager.ts": {
+    "time": 1687961052534.214,
+    "uuid": "52c73a96-436e-458d-8d7b-c2a3fbef080b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Door\\DoorSubMachine.ts": {
+    "time": 1685732439416.7075,
+    "uuid": "82d5dac3-92ef-4194-993b-9dc5796650b9",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Door\\DoorDeathSubStateMachines.ts.meta": {
+    "time": 1685727227780.4055
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Door\\DoorIdleSubStateMachines.ts.meta": {
+    "time": 1685727227788.4011
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Door\\DoorDeathSubStateMachines.ts": {
+    "time": 1685727256954.0366,
+    "uuid": "3d0dc12c-54b0-4f29-b4d6-56dee6cdd432",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Door\\DoorIdleSubStateMachines.ts": {
+    "time": 1685727162354.5105,
+    "uuid": "265b9cde-fce7-4705-ba3f-f9dc641ebd4c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\ironskeleton.meta": {
+    "time": 1685879565916.3914
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\ironskeleton\\IronskeletonManager.ts.meta": {
+    "time": 1685879565924.395
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\ironskeleton": {
+    "time": 1685879895970.1746,
+    "uuid": "62fcb09c-ad9d-489f-8751-76ed86525485",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\ironskeleton\\IronskeletonManager.ts": {
+    "time": 1686027886980.6936,
+    "uuid": "5c852bd5-553a-4a45-a948-229f1894b08e",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\ironskeleton\\IronskeletonManagerSubMachine.ts.meta": {
+    "time": 1685879786507.7512
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\ironskeleton\\IronskeletonManagerSubMachine.ts": {
+    "time": 1685879981810.1768,
+    "uuid": "fc102159-da2f-4e99-ba5d-320e3118a993",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\ironskeleton\\IronskeletonDeathsubMachine.ts.meta": {
+    "time": 1685879896234.178
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\ironskeleton\\IronskeletonIdlesubMachine.ts.meta": {
+    "time": 1685879896234.178
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\ironskeleton\\IronskeletonDeathsubMachine.ts": {
+    "time": 1685879852135.35,
+    "uuid": "b88bc92b-8d0e-4a41-9ccf-1664c329bec8",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\ironskeleton\\IronskeletonIdlesubMachine.ts": {
+    "time": 1685879907482.177,
+    "uuid": "ff8fc20c-eb8e-439f-af6e-850b09632a50",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base\\EnemyManager.ts.meta": {
+    "time": 1685880908674.0164
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Base\\EnemyManager.ts": {
+    "time": 1686844362053.0503,
+    "uuid": "7318da5a-fcce-4fde-a5ff-a0a2425d185e",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Burst.meta": {
+    "time": 1686022210069.488
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Burst\\BurstMachine.ts.meta": {
+    "time": 1686022210077.4858
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Burst\\BurstManager.ts.meta": {
+    "time": 1686022210077.4858
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Burst": {
+    "time": 1686023471164.8167,
+    "uuid": "34795397-6f52-4966-bca5-15e46350b2ee",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Burst\\BurstMachine.ts": {
+    "time": 1686023127811.823,
+    "uuid": "d6b0710e-51bf-45f4-b511-42bf4c6d60b9",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Burst\\BurstManager.ts": {
+    "time": 1687939922536.5176,
+    "uuid": "750e5475-e107-4897-9773-a5b42361642f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\AirDeathSubStateMachine.ts.meta": {
+    "time": 1686024328081.555
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Player\\AirDeathSubStateMachine.ts": {
+    "time": 1686028093812.693,
+    "uuid": "a9a39215-4a46-48d8-97df-2effb97d54ac",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes.meta": {
+    "time": 1686068969491.6062
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes\\SpikesMachine.ts.meta": {
+    "time": 1686068969494.6077
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes\\SpikesManager.ts.meta": {
+    "time": 1686068969495.6062
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes\\SpikesOneSubMachine.ts.meta": {
+    "time": 1686068969498.6067
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes\\SpikesSubMachine.ts.meta": {
+    "time": 1686068969499.6077
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes": {
+    "time": 1686108315375.7668,
+    "uuid": "a9004dce-b4b4-401b-8785-964fef70ce44",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes\\SpikesMachine.ts": {
+    "time": 1686542309355.428,
+    "uuid": "57f0b210-79e1-402d-96d1-34d243126cc9",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes\\SpikesManager.ts": {
+    "time": 1688016120880.0374,
+    "uuid": "032cb1c2-8a4a-450c-94b8-d6703d800e9f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes\\SpikesOneSubMachine.ts": {
+    "time": 1686071195675.4573,
+    "uuid": "6d5386fe-62ad-4e66-9792-0fb4cc389cd6",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes\\SpikesSubMachine.ts": {
+    "time": 1686110049861.742,
+    "uuid": "d40cfefe-2c3f-4153-bd7d-27846cff5f9d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes\\SpikesThreeSubMachine.ts": {
+    "time": 1686109004116.8367,
+    "uuid": "a5e1ebed-7625-40c8-8051-3b4119c73202",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes\\SpikesTwoSubMachine.ts": {
+    "time": 1686110232649.6367,
+    "uuid": "aec46a5d-904c-4731-bcae-01adeb193e5d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes\\SpikesThreeSubMachine.ts.meta": {
+    "time": 1686108207704.236
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes\\SpikesTwoSubMachine.ts.meta": {
+    "time": 1686108207704.236
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes\\SpikesFourSubMachine.ts.meta": {
+    "time": 1686108315511.7678
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\spikes\\SpikesFourSubMachine.ts": {
+    "time": 1686109063114.3357,
+    "uuid": "18a93e9e-1346-44a6-824b-3422f0ac993a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level3.ts.meta": {
+    "time": 1686131751464.3352
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level4.ts.meta": {
+    "time": 1686131751464.3352
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level5.ts.meta": {
+    "time": 1686131751480.3418
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level3.ts": {
+    "time": 1686132050976.0251,
+    "uuid": "4d6a877e-b217-4df6-97ca-456452b4adc9",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level4.ts": {
+    "time": 1686837094549.468,
+    "uuid": "56691fd1-71d8-460b-be03-7673818a3c60",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level5.ts": {
+    "time": 1686132034335.5623,
+    "uuid": "dd6fe6f0-b965-4bb2-b153-5235bb709c88",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level6.ts.meta": {
+    "time": 1686836036947.341
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level7.ts.meta": {
+    "time": 1686836036950.3342
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level8.ts.meta": {
+    "time": 1686836036951.331
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level9.ts.meta": {
+    "time": 1686836036953.3271
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level6.ts": {
+    "time": 1686542318768.4072,
+    "uuid": "7b5091a8-bcb6-4230-bb97-1071f42ab4a1",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level7.ts": {
+    "time": 1686542319542.271,
+    "uuid": "c2da0940-d76f-48f6-ae7e-1b78af7e413c",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level8.ts": {
+    "time": 1686542320838.8748,
+    "uuid": "b062e7a6-eaa5-4569-a8b6-85b2c047cebc",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level9.ts": {
+    "time": 1686542322030.609,
+    "uuid": "80cc1d71-7818-41a4-bac0-8ba9a9314503",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level10.ts.meta": {
+    "time": 1686543917262.3064
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level11.ts.meta": {
+    "time": 1686543917263.304
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level12.ts.meta": {
+    "time": 1686543917264.3057
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level13.ts.meta": {
+    "time": 1686543917266.3054
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level14.ts.meta": {
+    "time": 1686543917267.3066
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level15.ts.meta": {
+    "time": 1686543917272.3032
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level16.ts.meta": {
+    "time": 1686543917274.3035
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level10.ts": {
+    "time": 1686544017370.4905,
+    "uuid": "21c57546-34c0-448c-83a2-01782056d150",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level11.ts": {
+    "time": 1686543545046.8628,
+    "uuid": "cfce4fb1-bef8-409b-8fd0-0cc7def881d1",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level12.ts": {
+    "time": 1686543606836.2905,
+    "uuid": "ed96744f-129b-4217-81f7-3c471eaca239",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level13.ts": {
+    "time": 1686543672092.125,
+    "uuid": "edac232c-c6ce-4e43-af65-bfc78a0db226",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level14.ts": {
+    "time": 1686543720684.6199,
+    "uuid": "154bfcdc-7dc6-4eb2-9a60-04338e3b9097",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level15.ts": {
+    "time": 1686543768672.232,
+    "uuid": "a01e1262-5423-4bee-8b12-e119562bea35",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level16.ts": {
+    "time": 1686543823505.072,
+    "uuid": "a7dcce3c-35ae-4a41-9666-24650cd05769",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\smoke.meta": {
+    "time": 1686888715972.0837
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\smoke\\SmokeDeathStateMachines.ts.meta": {
+    "time": 1686888715980.0786
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\smoke\\SmokeIdleStateMachines.ts.meta": {
+    "time": 1686888715980.0786
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\smoke\\SmokeMachine.ts.meta": {
+    "time": 1686888715980.0786
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\smoke\\SmokeManager.ts.meta": {
+    "time": 1686888715988.074
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\smoke": {
+    "time": 1686888715876.1487,
+    "uuid": "14e21fe6-1159-4907-9a59-4af791b12413",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\smoke\\SmokeDeathStateMachines.ts": {
+    "time": 1686890975697.663,
+    "uuid": "2bcc6ff3-5725-4623-87f1-b96b1852e34f",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\smoke\\SmokeIdleStateMachines.ts": {
+    "time": 1686891422652.2024,
+    "uuid": "9a757238-59f4-4fd0-8794-3867bd250629",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\smoke\\SmokeMachine.ts": {
+    "time": 1687941762313.2185,
+    "uuid": "0c5ebd06-596c-48e2-ad49-01af3b224bb3",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\smoke\\SmokeManager.ts": {
+    "time": 1686891218503.5618,
+    "uuid": "2e225593-6c40-43e6-b1ba-4530252530ba",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\RunTime\\FaderManager.ts.meta": {
+    "time": 1687503572118.5037
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\UI\\DrawManager.ts.meta": {
+    "time": 1687503572118.5037
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\RunTime\\FaderManager.ts": {
+    "time": 1687941006828.316,
+    "uuid": "a00d27b3-34be-428e-8d26-2c7a0b023737",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\UI\\DrawManager.ts": {
+    "time": 1688039140498.5598,
+    "uuid": "e1cf34ca-4816-4eb5-8a3e-db0d96b2353d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\UI\\ShakeManager.ts.meta": {
+    "time": 1687937309114.8684
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\UI\\ShakeManager.ts": {
+    "time": 1687940812844.0754,
+    "uuid": "51f4cbde-a5e8-427f-be5b-4e57ffaff7e2",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\UI\\MenuManager.ts.meta": {
+    "time": 1687957320710.7964
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\UI\\MenuManager.ts": {
+    "time": 1688014019275.8665,
+    "uuid": "ae577e9a-34c9-4685-adc4-5db6baf45b09",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level17.ts.meta": {
+    "time": 1687960261291.9377
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level18.ts.meta": {
+    "time": 1687960261299.9377
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level19.ts.meta": {
+    "time": 1687960261299.9377
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level20.ts.meta": {
+    "time": 1687960261299.9377
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level21.ts.meta": {
+    "time": 1687960261307.938
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level17.ts": {
+    "time": 1687960492991.1965,
+    "uuid": "507b849b-595c-410c-a64f-da50915f4b8a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level18.ts": {
+    "time": 1687960103570.6367,
+    "uuid": "8dd30f63-09a1-49b5-9921-c2b198a702c1",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level19.ts": {
+    "time": 1688010005897.6572,
+    "uuid": "a2c26d46-07f7-44b1-8858-ca19cd6a9a2d",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level20.ts": {
+    "time": 1687960168610.5928,
+    "uuid": "5b1942cc-87fd-4941-9891-8653c682f418",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Level\\level21.ts": {
+    "time": 1687960153658.6035,
+    "uuid": "ee36863f-7dc8-4ab3-a2e8-09b27776d412",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scene\\start.scene.meta": {
+    "time": 1688010305632.4922
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scene\\start.scene": {
+    "time": 1688040036150.33,
+    "uuid": "f487ee25-da22-4cd4-bb1d-3a3f1d1786a5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\tile\\bg.prefab.meta": {
+    "time": 1688010361332.9612
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\texture\\tile\\bg.prefab": {
+    "time": 1688010361332.9612,
+    "uuid": "db822da2-7238-4678-b6c2-429da4eb10e7",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\UI\\StartManager.ts.meta": {
+    "time": 1688011373504.2622
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\UI\\StartManager.ts": {
+    "time": 1688039904798.0413,
+    "uuid": "f5b8b1f7-639b-4249-9556-14538245ddd5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scene\\loading.scene.meta": {
+    "time": 1688014623498.5413
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scene\\loading.scene": {
+    "time": 1688033808543.78,
+    "uuid": "50eef35f-44e2-4f80-99e2-5421d780cc46",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\UI\\LoadingManager.ts.meta": {
+    "time": 1688014692687.405
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\UI\\LoadingManager.ts": {
+    "time": 1688040002622.1438,
+    "uuid": "76b8266c-cf64-4dd3-9789-b514d1c56e6b",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Audio.meta": {
+    "time": 1688016403219.792
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Audio": {
+    "time": 1688017003162.9036,
+    "uuid": "91595184-f59f-44d7-a4e1-ab8b08c86bf8",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Audio\\AudioManager.ts.meta": {
+    "time": 1688017003189.8325
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\Audio\\AudioManager.ts": {
+    "time": 1688032769331.9182,
+    "uuid": "15427ccd-72c2-4db7-8841-d260ef6c6cf0",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\RunTime\\MusicManager.ts.meta": {
+    "time": 1688017571032.583
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\Scripts\\RunTime\\MusicManager.ts": {
+    "time": 1688033583488.643,
+    "uuid": "808a4279-40b5-4597-a1c7-2c5e89d5123a",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\audio.meta": {
+    "time": 1688031422755.8677
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\audio\\bgm.mp3.meta": {
+    "time": 1688019263784.3103
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\audio": {
+    "time": 1688022236223.653,
+    "uuid": "08f79e59-b671-421f-bb92-6005d8b3a456",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\audio\\bgm.mp3": {
+    "time": 1688019198214.0088,
+    "uuid": "ad67a127-b24a-4276-a934-47bc29099004",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\audio\\sound.mp3.meta": {
+    "time": 1688019985090.295
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\audio\\sound.mp3": {
+    "time": 1688019901824.1768,
+    "uuid": "29d84a9b-46ea-4788-85c9-b1a8ac1f3085",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\audio\\attack.mp3.meta": {
+    "time": 1688020528387.6743
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\audio\\attack.mp3": {
+    "time": 1688020497159.0515,
+    "uuid": "98ffec5e-0397-4e21-b689-f028f1485df5",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\audio\\block.mp3.meta": {
+    "time": 1688021567597.5186
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\audio\\block.mp3": {
+    "time": 1688021468420.1223,
+    "uuid": "b28ef6a0-1344-4b4a-98fd-08280454d0a6",
+    "missing": false
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\audio\\death.mp3.meta": {
+    "time": 1688022236319.59
+  },
+  "E:\\cocosproject\\Dome\\cocos-start-demo\\assets\\resources\\audio\\death.mp3": {
+    "time": 1688022203734.7834,
+    "uuid": "2cf43bbe-8ddc-428d-a77c-4112800bd6e3",
+    "missing": false
+  }
+}

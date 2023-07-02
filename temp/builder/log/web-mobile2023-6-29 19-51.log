@@ -1,0 +1,440 @@
+2023-6-29 19:51-debug: Start record console... {file(E:\cocosproject\Dome\cocos-start-demo\temp\builder\log\web-mobile2023-6-29 19-51.log)}
+2023-6-29 19:51-debug: =================================== Build Task (web-mobile-001) Start ================================
+2023-6-29 19:51-debug: cocos-service:(onBeforeBuild) start...0%
+2023-6-29 19:51-debug: Start build task, options:{"name":"地牢猎人","platform":"web-mobile","buildPath":"project://build","debug":false,"md5Cache":false,"sourceMaps":false,"replaceSplashScreen":false,"mainBundleCompressionType":"merge_dep","mainBundleIsRemote":false,"mergeStartScene":false,"experimentalEraseModules":false,"compressTexture":true,"packAutoAtlas":true,"startScene":"50eef35f-44e2-4f80-99e2-5421d780cc46","scenes":[{"url":"db://assets/Scene/loading.scene","uuid":"50eef35f-44e2-4f80-99e2-5421d780cc46","inBundle":false},{"url":"db://assets/Scene/scene.scene","uuid":"85ffdebb-36cc-42ae-ac43-c37eda52ad42","inBundle":false},{"url":"db://assets/Scene/start.scene","uuid":"f487ee25-da22-4cd4-bb1d-3a3f1d1786a5","inBundle":false}],"outputName":"web-mobile-001","packages":{"web-mobile":{"orientation":"auto","polyfills":{"asyncFunctions":true},"embedWebDebugger":false},"cocos-service":{"configID":"ea7fed","services":[]}}}
+2023-6-29 19:51-debug: Build with Cocos Creator 3.4.2
+2023-6-29 19:51-debug: // ---- cocos-service:(onBeforeBuild) ----
+2023-6-29 19:51-debug: Process: heapTotal 624.54MB heapUsed 521.72MB rss 13.67MB
+2023-6-29 19:51-debug: // ---- cocos-service:(onBeforeBuild) success ----
+2023-6-29 19:51-debug: cocos-service:(onBeforeBuild)3%
+2023-6-29 19:51-debug: Query all assets info in project
+2023-6-29 19:51-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-6-29 19:51-debug: BuildAssetLibrary query-assets with assets 490
+2023-6-29 19:51-debug:   Number of all scripts: 84
+2023-6-29 19:51-debug:   Number of other assets: 1835
+2023-6-29 19:51-debug: web-mobile:(onAfterInit) start...3%
+2023-6-29 19:51-debug: BuildAssetLibrary initialized with asset 1229!
+2023-6-29 19:51-debug: // ---- web-mobile:(onAfterInit) ----
+2023-6-29 19:51-debug: // ---- web-mobile:(onAfterInit) success ----
+2023-6-29 19:51-debug: web-mobile:(onAfterInit)5%
+2023-6-29 19:51-debug:   Number of all scenes: 3
+2023-6-29 19:51-debug: cocos-service:(onAfterInit) start...5%
+2023-6-29 19:51-debug: // ---- cocos-service:(onAfterInit) ----
+2023-6-29 19:51-debug: Process: heapTotal 625.11MB heapUsed 523.61MB rss 47.09MB
+2023-6-29 19:51-debug: Process: heapTotal 625.11MB heapUsed 523.58MB rss 46.55MB
+2023-6-29 19:51-debug: // ---- cocos-service:(onAfterInit) success ----
+2023-6-29 19:51-debug: cocos-service:(onAfterInit)8%
+2023-6-29 19:51-debug: 加载刷新项目脚本 start8%
+2023-6-29 19:51-log: // ---- 加载刷新项目脚本 ----
+2023-6-29 19:51-debug: Process: heapTotal 625.11MB heapUsed 523.68MB rss 47.35MB
+2023-6-29 19:51-debug: reload all scripts.
+2023-6-29 19:51-debug: Incremental keys: 
+2023-6-29 19:51-debug: Unregister AudioManager
+2023-6-29 19:51-debug: Unregister SubStateMachine
+2023-6-29 19:51-debug: Unregister IdleTurnStateMachie
+2023-6-29 19:51-debug: Unregister StateMachine
+2023-6-29 19:51-debug: Unregister PlayerManager
+2023-6-29 19:51-debug: Unregister BurstMachine
+2023-6-29 19:51-debug: Unregister BurstManager
+2023-6-29 19:51-debug: Unregister DoorSubMachine
+2023-6-29 19:51-debug: Unregister EnityManger
+2023-6-29 19:51-debug: Unregister DrawManager
+2023-6-29 19:51-debug: Unregister TlieManager
+2023-6-29 19:51-debug: Unregister PlayerStateMachine
+2023-6-29 19:51-debug: Unregister TlieMapManager
+2023-6-29 19:51-debug: Unregister WoodenSkeletonSubMachine
+2023-6-29 19:51-debug: Unregister IronskeletonManagerSubMachine
+2023-6-29 19:51-debug: Unregister IronskeletonManager
+2023-6-29 19:51-debug: Unregister SpikesMachine
+2023-6-29 19:51-debug: Unregister SpikesManager
+2023-6-29 19:51-debug: Unregister WoodenSkeletonManager
+2023-6-29 19:51-debug: Unregister SmokeManager
+2023-6-29 19:51-debug: Unregister ShakeManager
+2023-6-29 19:51-debug: Unregister BattleManager
+2023-6-29 19:51-debug: Unregister LoadingManager
+2023-6-29 19:51-debug: Unregister MenuManager
+2023-6-29 19:51-debug: Unregister StartManager
+2023-6-29 19:51-debug: Unregister UIController
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/cce/internal/x/prerequisite-imports.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Enums/index.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/cce/internal/x/cc.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/index.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/cce/internal/code-quality/cr.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level1.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level2.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level3.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level4.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level5.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level6.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level7.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level8.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level9.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level10.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level11.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level12.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level13.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level14.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level15.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level16.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level17.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level18.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level19.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level20.js'
+2023-6-29 19:51-debug: Unregister SmokeMachine
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Audio/AudioManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Base/EnemyManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Base/EnityManger.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/RunTime/EventManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/RunTime/DataManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Base/Singleton.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Utiils/index.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Base/SubStateMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Base/State.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Player/PlayerManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/RunTime/ResourcesManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Player/PlayerStateMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/RunTime/MusicManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Base/StateMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Player/AirDeathSubStateMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Player/AttackDeathSubStateMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Player/AttackSubStateMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Player/BlockblackStateMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Player/BlockfrontStateMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Player/BlockturnleftStateMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Player/BlockturnrightStateMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Player/IdleLeftStateMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Player/TurnLeftStateMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Player/TurnRightStateMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Burst/BurstMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Burst/BurstManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Door/DoorDeathSubStateMachines.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Door/DoorIdleSubStateMachines.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Door/DoorManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Door/DoorSubMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/RunTime/FaderManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/UI/DrawManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Scene/BattleManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Tile/TlieMapManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/WoodenSkeleton/WoodenSkeletonManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/ironskeleton/IronskeletonManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/spikes/SpikesManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/smoke/SmokeManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/UI/ShakeManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/Tile/TileManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/WoodenSkeleton/WoodenSkeletonSubMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/ironskeleton/IronskeletonManagerSubMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/spikes/SpikesMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/smoke/SmokeMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/WoodenSkeleton/AttackSubStateMachines.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/WoodenSkeleton/DeathSubStateMachines.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/WoodenSkeleton/IdleSubStateMachines.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/ironskeleton/IronskeletonDeathsubMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/ironskeleton/IronskeletonIdlesubMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/spikes/SpikesFourSubMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/spikes/SpikesOneSubMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/spikes/SpikesThreeSubMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/spikes/SpikesTwoSubMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/smoke/SmokeIdleStateMachines.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/smoke/SmokeDeathStateMachines.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/spikes/SpikesSubMachine.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/UI/LoadingManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/UI/MenuManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/UI/StartManager.js'
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Scripts/UI/UIController.js'
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/cce/internal/x/cc.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Enums/index.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/cce/internal/code-quality/cr.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level1.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level2.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level3.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level4.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level5.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level6.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level7.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level8.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level9.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level10.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level11.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level12.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level13.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level14.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level15.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level16.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level17.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level18.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level19.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level20.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/level21.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Level/index.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register AudioManager
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Audio/AudioManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Utiils/index.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register EnityManger
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Base/EnityManger.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Base/Singleton.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/RunTime/EventManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/RunTime/DataManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Base/EnemyManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register SubStateMachine
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Base/SubStateMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register IdleTurnStateMachie
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Base/IdleTurnStateMachie.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register StateMachine
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Base/StateMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Player/AirDeathSubStateMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Player/AttackDeathSubStateMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Player/AttackSubStateMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Player/BlockblackStateMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Player/BlockfrontStateMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Player/BlockturnleftStateMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Player/BlockturnrightStateMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Player/IdleLeftStateMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Player/TurnLeftStateMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Player/TurnRightStateMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register PlayerStateMachine
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Player/PlayerStateMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/RunTime/MusicManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register PlayerManager
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Player/PlayerManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/RunTime/ResourcesManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Base/State.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register BurstMachine
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Burst/BurstMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register BurstManager
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Burst/BurstManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Door/DoorDeathSubStateMachines.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Door/DoorIdleSubStateMachines.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register DoorSubMachine
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Door/DoorSubMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register DoorManager
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Door/DoorManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register DrawManager
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/UI/DrawManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/RunTime/FaderManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register TlieManager
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Tile/TileManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register TlieMapManager
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Tile/TlieMapManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/WoodenSkeleton/AttackSubStateMachines.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/WoodenSkeleton/DeathSubStateMachines.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/WoodenSkeleton/IdleSubStateMachines.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register WoodenSkeletonSubMachine
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/WoodenSkeleton/WoodenSkeletonSubMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register WoodenSkeletonManager
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/WoodenSkeleton/WoodenSkeletonManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/ironskeleton/IronskeletonDeathsubMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/ironskeleton/IronskeletonIdlesubMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register IronskeletonManagerSubMachine
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/ironskeleton/IronskeletonManagerSubMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register IronskeletonManager
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/ironskeleton/IronskeletonManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/spikes/SpikesSubMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/spikes/SpikesFourSubMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/spikes/SpikesOneSubMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/spikes/SpikesThreeSubMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/spikes/SpikesTwoSubMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register SpikesMachine
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/spikes/SpikesMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register SpikesManager
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/spikes/SpikesManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/smoke/SmokeIdleStateMachines.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/smoke/SmokeDeathStateMachines.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register SmokeMachine
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/smoke/SmokeMachine.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register SmokeManager
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/smoke/SmokeManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register ShakeManager
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/UI/ShakeManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register BattleManager
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/Scene/BattleManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register LoadingManager
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/UI/LoadingManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register MenuManager
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/UI/MenuManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Register StartManager
+2023-6-29 19:51-debug: [[Executor]] Register UIController
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/UI/StartManager.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/fs/0/assets/Scripts/UI/UIController.js" loaded.
+2023-6-29 19:51-debug: [[Executor]] Module "pack:///mods/cce/internal/x/prerequisite-imports.js" loaded.
+2023-6-29 19:51-debug: 加载刷新项目脚本 √9%
+2023-6-29 19:51-log: // ---- 查询 Asset Bundle ----
+2023-6-29 19:51-debug: 查询 Asset Bundle start9%
+2023-6-29 19:51-debug: Process: heapTotal 625.11MB heapUsed 524.28MB rss 56.07MB
+2023-6-29 19:51-debug: Unregister DoorManager
+2023-6-29 19:51-debug: Invalidating 'pack:///mods/fs/0/assets/Level/level21.js'
+2023-6-29 19:51-debug: 查询 Asset Bundle √10%
+2023-6-29 19:51-debug: 查询使用的资源以及资源包配置 start10%
+2023-6-29 19:51-log: // ---- 查询使用的资源以及资源包配置 ----
+2023-6-29 19:51-debug: Process: heapTotal 625.11MB heapUsed 524.48MB rss 57.14MB
+2023-6-29 19:51-debug: Number of scenes: 3
+2023-6-29 19:51-debug: Number of assets: 871
+2023-6-29 19:51-debug: Number of asset bundle: 2
+2023-6-29 19:51-debug: 整理脚本分组与脚本数据 start11%
+2023-6-29 19:51-debug: Process: heapTotal 640.25MB heapUsed 532.47MB rss 80.04MB
+2023-6-29 19:51-debug: sort script group...
+2023-6-29 19:51-debug: 整理脚本分组与脚本数据 √13%
+2023-6-29 19:51-log: // ---- 整理脚本分组与脚本数据 ----
+2023-6-29 19:51-debug: Process: heapTotal 640.25MB heapUsed 532.54MB rss 80.14MB
+2023-6-29 19:51-debug: 整理纹理压缩任务 start13%
+2023-6-29 19:51-debug: 查询使用的资源以及资源包配置 √11%
+2023-6-29 19:51-log: // ---- 整理纹理压缩任务 ----
+2023-6-29 19:51-debug: Number of image-compress task: 0
+2023-6-29 19:51-debug: 整理纹理压缩任务 √14%
+2023-6-29 19:51-debug: 初步划分 JSON 合并分组 start14%
+2023-6-29 19:51-log: // ---- 初步划分 JSON 合并分组 ----
+2023-6-29 19:51-debug: Process: heapTotal 640.25MB heapUsed 533.22MB rss 81.63MB
+2023-6-29 19:51-debug: Number of json group: 2
+2023-6-29 19:51-debug: 初步划分 JSON 合并分组 √15%
+2023-6-29 19:51-debug: 整理合并压缩 Texture2D 的 JSON 数据 start15%
+2023-6-29 19:51-log: // ---- 整理合并压缩 Texture2D 的 JSON 数据 ----
+2023-6-29 19:51-debug: Process: heapTotal 640.25MB heapUsed 530.69MB rss 89.04MB
+2023-6-29 19:51-debug: 整理合并压缩 Texture2D 的 JSON 数据 √16%
+2023-6-29 19:51-debug:  start16%
+2023-6-29 19:51-log: // ----  ----
+2023-6-29 19:51-debug: Process: heapTotal 640.25MB heapUsed 530.85MB rss 89.45MB
+2023-6-29 19:51-debug: web-mobile:(onBeforeBuildAssets) start...18%
+2023-6-29 19:51-debug: // ---- web-mobile:(onBeforeBuildAssets) ----
+2023-6-29 19:51-debug: Process: heapTotal 640.25MB heapUsed 530.88MB rss 89.46MB
+2023-6-29 19:51-debug: // ---- web-mobile:(onBeforeBuildAssets) success ----
+2023-6-29 19:51-debug: web-mobile:(onBeforeBuildAssets)20%
+2023-6-29 19:51-debug:  start20%
+2023-6-29 19:51-log: // ----  ----
+2023-6-29 19:51-debug: Process: heapTotal 640.25MB heapUsed 530.95MB rss 89.48MB
+2023-6-29 19:51-debug:  √18%
+2023-6-29 19:51-debug: 打包脚本20%
+2023-6-29 19:51-debug: Process: heapTotal 640.75MB heapUsed 543.62MB rss 128.38MB
+2023-6-29 19:51-warn: [[Build.Script.Rollup]] Circular dependency: file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerManager.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/AirDeathSubStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts
+2023-6-29 19:51-warn: [[Build.Script.Rollup]] Circular dependency: file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerManager.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/AttackDeathSubStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts
+2023-6-29 19:51-warn: [[Build.Script.Rollup]] Circular dependency: file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerManager.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/AttackSubStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts
+2023-6-29 19:51-warn: [[Build.Script.Rollup]] Circular dependency: file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerManager.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/AttackSubStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerManager.ts
+2023-6-29 19:51-warn: [[Build.Script.Rollup]] Circular dependency: file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerManager.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/BlockblackStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts
+2023-6-29 19:51-warn: [[Build.Script.Rollup]] Circular dependency: file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerManager.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/BlockfrontStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts
+2023-6-29 19:51-warn: [[Build.Script.Rollup]] Circular dependency: file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerManager.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/BlockturnleftStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts
+2023-6-29 19:51-warn: [[Build.Script.Rollup]] Circular dependency: file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerManager.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/BlockturnrightStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts
+2023-6-29 19:51-warn: [[Build.Script.Rollup]] Circular dependency: file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerManager.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/IdleLeftStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts
+2023-6-29 19:51-warn: [[Build.Script.Rollup]] Circular dependency: file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/TurnLeftStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerManager.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/TurnLeftStateMachine.ts
+2023-6-29 19:51-warn: [[Build.Script.Rollup]] Circular dependency: file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerManager.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/PlayerStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Player/TurnRightStateMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/Base/State.ts
+2023-6-29 19:51-warn: [[Build.Script.Rollup]] Circular dependency: file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/spikes/SpikesManager.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/spikes/SpikesMachine.ts -> file:///E:/cocosproject/Dome/cocos-start-demo/assets/Scripts/spikes/SpikesManager.ts
+2023-6-29 19:51-debug: Copy externalScripts success!
+2023-6-29 19:51-debug: 打包脚本√20%
+2023-6-29 19:51-debug: 构建引擎20%
+2023-6-29 19:51-debug: Process: heapTotal 380.60MB heapUsed 224.81MB rss 300.25MB
+2023-6-29 19:51-debug: Use cache engine: {link(C:\Users\ADMINI~1\AppData\Local\Temp\CocosCreator\3.4.2\builder\engine\eb297a5ac5ed26cb595528c6da4d016a)}
+2023-6-29 19:51-debug: {"debug":false,"sourceMaps":false,"includeModules":["2d","audio","base","dragon-bones","gfx-webgl","gfx-webgl2","intersection-2d","marionette","particle-2d","physics-2d-box2d","profiler","spine","tiled-map","tween","ui","video","webview"],"engineVersion":"3.4.2","platform":"HTML5","md5Map":[],"engineName":"cocos-js","useCache":true,"split":false,"ammoJsWasm":"fallback","assetURLFormat":"runtime-resolved","entry":"C:\\ProgramData\\cocos\\editors\\3.4.2\\resources\\resources\\3d\\engine"}
+2023-6-29 19:51-debug:  √27%
+2023-6-29 19:51-debug: 构建自动图集 start27%
+2023-6-29 19:51-log: // ---- 构建自动图集 ----
+2023-6-29 19:51-debug: Process: heapTotal 380.60MB heapUsed 226.98MB rss 300.83MB
+2023-6-29 19:51-debug: 构建自动图集 √33%
+2023-6-29 19:51-debug: 图片拷贝压缩任务 start33%
+2023-6-29 19:51-log: // ---- 图片拷贝压缩任务 ----
+2023-6-29 19:51-debug: Process: heapTotal 380.60MB heapUsed 227.04MB rss 300.83MB
+2023-6-29 19:51-debug: 图片拷贝压缩任务 √40%
+2023-6-29 19:51-debug: 将资源拷贝到指定位置 start40%
+2023-6-29 19:51-log: // ---- 将资源拷贝到指定位置 ----
+2023-6-29 19:51-debug: Process: heapTotal 380.60MB heapUsed 227.06MB rss 300.82MB
+2023-6-29 19:51-debug: 构建引擎√20%
+2023-6-29 19:51-debug: Asset Bundle(resources) handle assets: 861
+2023-6-29 19:51-debug: Asset Bundle(main) handle assets: 26
+2023-6-29 19:51-debug: 将分组后的 json 与散文件构建到指定位置 start47%
+2023-6-29 19:51-log: // ---- 将分组后的 json 与散文件构建到指定位置 ----
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 227.30MB rss 300.30MB
+2023-6-29 19:51-debug: 将资源拷贝到指定位置 √47%
+2023-6-29 19:51-debug: Json group(build-task/json) compile success，json number: 6
+2023-6-29 19:51-debug: Json group(build-task/json) compile success，json number: 6
+2023-6-29 19:51-debug: 将分组后的 json 与散文件构建到指定位置 √53%
+2023-6-29 19:51-debug: 压缩 Zip Bundle start53%
+2023-6-29 19:51-log: // ---- 压缩 Zip Bundle ----
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 227.56MB rss 300.36MB
+2023-6-29 19:51-debug: 压缩 Zip Bundle √60%
+2023-6-29 19:51-debug: 给所有的资源加上 MD5 后缀 start60%
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 227.59MB rss 300.42MB
+2023-6-29 19:51-debug: 给所有的资源加上 MD5 后缀 √70%
+2023-6-29 19:51-log: // ---- 给所有的资源加上 MD5 后缀 ----
+2023-6-29 19:51-debug: 初始化 settings.json 与 config.json start70%
+2023-6-29 19:51-debug: 初始化 settings.json 与 config.json √71%
+2023-6-29 19:51-debug: tasks.settings.macro 字段未在编辑器多语言内定义
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 227.61MB rss 300.43MB
+2023-6-29 19:51-debug: tasks.settings.macro start71%
+2023-6-29 19:51-log: // ---- tasks.settings.macro ----
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 227.66MB rss 300.13MB
+2023-6-29 19:51-log: // ---- 初始化 settings.json 与 config.json ----
+2023-6-29 19:51-debug: tasks.settings.macro √71%
+2023-6-29 19:51-debug: 使用缓存 settings.json start71%
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 227.77MB rss 300.13MB
+2023-6-29 19:51-log: // ---- 使用缓存 settings.json ----
+2023-6-29 19:51-debug: 使用缓存 settings.json √72%
+2023-6-29 19:51-log: // ---- custom joint texture layouts ----
+2023-6-29 19:51-debug: custom joint texture layouts start72%
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 227.86MB rss 300.10MB
+2023-6-29 19:51-debug: custom joint texture layouts √72%
+2023-6-29 19:51-debug: custom joint physics start72%
+2023-6-29 19:51-log: // ---- custom joint physics ----
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 227.89MB rss 300.11MB
+2023-6-29 19:51-debug: custom joint physics √73%
+2023-6-29 19:51-debug: 填充脚本数据到 settings.json start73%
+2023-6-29 19:51-log: // ---- 填充脚本数据到 settings.json ----
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 227.91MB rss 300.11MB
+2023-6-29 19:51-debug: 填充脚本数据到 settings.json √73%
+2023-6-29 19:51-debug: 填充场景数据到 settings.json start73%
+2023-6-29 19:51-log: // ---- 填充场景数据到 settings.json ----
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 227.93MB rss 300.11MB
+2023-6-29 19:51-debug: 填充场景数据到 settings.json √74%
+2023-6-29 19:51-debug: 整理资源分组，生成 packedAssets 以及 rawAssets 数据 start74%
+2023-6-29 19:51-log: // ---- 整理资源分组，生成 packedAssets 以及 rawAssets 数据 ----
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 227.95MB rss 300.11MB
+2023-6-29 19:51-debug: 整理资源分组，生成 packedAssets 以及 rawAssets 数据 √74%
+2023-6-29 19:51-debug: 从 suffixMap 生成 md5AssetsMap 到 settings.json start74%
+2023-6-29 19:51-log: // ---- 从 suffixMap 生成 md5AssetsMap 到 settings.json ----
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 228.29MB rss 300.37MB
+2023-6-29 19:51-debug: 从 suffixMap 生成 md5AssetsMap 到 settings.json √75%
+2023-6-29 19:51-debug: options.md5Cache is false.
+2023-6-29 19:51-debug: web-mobile:(onBeforeCompressSettings) start...75%
+2023-6-29 19:51-debug: // ---- web-mobile:(onBeforeCompressSettings) ----
+2023-6-29 19:51-debug: // ---- web-mobile:(onBeforeCompressSettings) success ----
+2023-6-29 19:51-debug: web-mobile:(onBeforeCompressSettings)77%
+2023-6-29 19:51-debug: cocos-service:(onBeforeCompressSettings) start...77%
+2023-6-29 19:51-debug: // ---- cocos-service:(onBeforeCompressSettings) ----
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 228.34MB rss 300.54MB
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 228.31MB rss 300.54MB
+2023-6-29 19:51-debug: // ---- cocos-service:(onBeforeCompressSettings) success ----
+2023-6-29 19:51-debug: cocos-service:(onBeforeCompressSettings)80%
+2023-6-29 19:51-debug:  start80%
+2023-6-29 19:51-log: // ----  ----
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 228.54MB rss 300.18MB
+2023-6-29 19:51-debug:  √81%
+2023-6-29 19:51-debug: 压缩 config.json 与 settings.json start81%
+2023-6-29 19:51-log: // ---- 压缩 config.json 与 settings.json ----
+2023-6-29 19:51-debug: 保存 config.json start82%
+2023-6-29 19:51-log: // ---- 保存 config.json ----
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 229.36MB rss 299.99MB
+2023-6-29 19:51-debug: 保存 config.json √83%
+2023-6-29 19:51-debug: 保存 settings.json start83%
+2023-6-29 19:51-log: // ---- 保存 settings.json ----
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 229.63MB rss 300.07MB
+2023-6-29 19:51-debug: 保存 settings.json √84%
+2023-6-29 19:51-debug: 整理静态模板文件 start84%
+2023-6-29 19:51-log: // ---- 整理静态模板文件 ----
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 229.75MB rss 300.07MB
+2023-6-29 19:51-debug: 整理静态模板文件 √85%
+2023-6-29 19:51-debug: cocos-service:(onAfterCompressSettings) start...85%
+2023-6-29 19:51-debug: // ---- cocos-service:(onAfterCompressSettings) ----
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 227.11MB rss 300.33MB
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 228.59MB rss 300.18MB
+2023-6-29 19:51-debug: 压缩 config.json 与 settings.json √82%
+2023-6-29 19:51-debug: // ---- cocos-service:(onAfterCompressSettings) success ----
+2023-6-29 19:51-debug: cocos-service:(onAfterCompressSettings)87%
+2023-6-29 19:51-debug: // ---- web-mobile:(onAfterBuild) ----
+2023-6-29 19:51-debug: // ---- web-mobile:(onAfterBuild) success ----
+2023-6-29 19:51-debug: web-mobile:(onAfterBuild)90%
+2023-6-29 19:51-debug: cocos-service:(onAfterBuild) start...90%
+2023-6-29 19:51-debug: // ---- cocos-service:(onAfterBuild) ----
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 226.82MB rss 301.04MB
+2023-6-29 19:51-debug: web-mobile:(onAfterBuild) start...87%
+2023-6-29 19:51-debug: Process: heapTotal 380.43MB heapUsed 231.71MB rss 300.39MB
+2023-6-29 19:51-debug: // ---- cocos-service:(onAfterBuild) success ----
+2023-6-29 19:51-debug: cocos-service:(onAfterBuild)93%
+2023-6-29 19:51-debug: build success in 21606 ms!
+2023-6-29 19:51-debug: Stop record console. {file(E:\cocosproject\Dome\cocos-start-demo\temp\builder\log\web-mobile2023-6-29 19-51.log)}
